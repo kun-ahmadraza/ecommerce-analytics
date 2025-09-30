@@ -1,0 +1,2001 @@
+product_id,category,subcategory,brand,price,cost
+1,Electronics,Mobile,"Blair, Blanchard and Williams",1484.39,739.16
+2,Clothing,Kids,"Woods, Crawford and Ruiz",209.48,145.85
+3,Toys,Action,"Thompson, Rodriguez and Barnes",1183.03,488.25
+4,Electronics,Mobile,Stevenson-Lowery,469.16,300.64
+5,Toys,Action,"Knight, Bell and Mccarthy",1433.46,975.51
+6,Books,Fiction,Lopez-Nelson,901.17,460.75
+7,Electronics,Mobile,Moore and Sons,1397.79,749.36
+8,Clothing,Men,Johnson-Smith,1914.64,1023.64
+9,Electronics,Laptop,"Rice, Silva and Marshall",197.95,146.28
+10,Toys,Educational,Gonzales and Sons,1615.22,1117.56
+11,Toys,Action,"Cooper, Wilson and Hanna",1946.37,1073.26
+12,Toys,Educational,Martin Group,1659.66,1074.48
+13,Home,Decor,"Guzman, Torres and Gonzalez",388.62,166.26
+14,Clothing,Women,Bell-Boyd,1970.52,1462.38
+15,Electronics,Laptop,Ramsey and Sons,559.56,366.11
+16,Home,Furniture,Cruz LLC,743.51,359.71
+17,Home,Decor,"Walker, Craig and Colon",1873.63,1235.12
+18,Toys,Board,"Cordova, Fowler and Odonnell",346.42,239.6
+19,Clothing,Women,Palmer-Duke,762.01,606.41
+20,Toys,Action,Sellers Group,1370.81,1010.48
+21,Electronics,Mobile,Jackson-Long,1644.5,1187.36
+22,Books,Non-Fiction,"Colon, Patel and Morris",137.05,104.88
+23,Toys,Board,Palmer-Harvey,632.78,419.01
+24,Books,Comics,Hill-Ray,920.41,465.68
+25,Clothing,Kids,Torres and Sons,1124.93,568.2
+26,Toys,Educational,"Le, Smith and Peck",1796.16,1005.42
+27,Clothing,Men,Ramirez Inc,1021.5,445.75
+28,Electronics,Mobile,Barrett-Zamora,309.92,143.8
+29,Books,Comics,Brewer Inc,131.74,72.81
+30,Books,Comics,Roberts Inc,506.57,314.73
+31,Electronics,Camera,Moore Group,1442.84,970.58
+32,Toys,Educational,"Brown, Carlson and Byrd",1538.35,824.66
+33,Home,Kitchen,Franco PLC,320.52,128.62
+34,Home,Decor,"Wright, Henderson and Fernandez",1525.11,919.75
+35,Electronics,Camera,Koch PLC,600.4,393.61
+36,Toys,Action,Johnson-Willis,309.91,218.49
+37,Toys,Board,Medina PLC,1837.39,1175.15
+38,Books,Fiction,"Moreno, Jackson and Black",228.18,124.4
+39,Home,Furniture,Robertson PLC,120.56,90.57
+40,Electronics,Mobile,"Morrison, Delgado and Grimes",1465.16,1064.31
+41,Toys,Action,"Johnson, Hodge and Lewis",261.14,154.1
+42,Toys,Action,"Reed, Cook and Moon",533.79,399.79
+43,Books,Fiction,Flores LLC,1858.18,1304.64
+44,Clothing,Kids,Williams-Boyd,626.87,500.28
+45,Home,Kitchen,Hooper PLC,1799.73,1044.91
+46,Clothing,Men,Robles LLC,132.73,54.21
+47,Toys,Action,Cross LLC,1178.94,474.97
+48,Electronics,Mobile,"Wheeler, Walker and Evans",139.46,57.54
+49,Home,Furniture,"Gutierrez, Taylor and Cole",1030.74,527.11
+50,Books,Fiction,Chambers-Wiggins,1080.77,745.02
+51,Toys,Board,"Blevins, Reed and Hancock",947.98,676.71
+52,Books,Fiction,"Dalton, Crawford and Johnson",193.18,128.19
+53,Home,Kitchen,Young-Smith,825.15,615.18
+54,Electronics,Camera,Tucker-Moore,1308.64,861.7
+55,Electronics,Laptop,Smith Inc,1457.79,1049.95
+56,Electronics,Mobile,"Glass, Johnson and Greene",387.22,237.95
+57,Clothing,Women,"Moreno, Johnston and Mcpherson",371.06,217.09
+58,Electronics,Laptop,Kim PLC,1617.0,1200.44
+59,Electronics,Mobile,"Wilson, Logan and Jones",1306.03,804.82
+60,Electronics,Mobile,"Hammond, Miller and Dorsey",1853.1,1370.33
+61,Clothing,Women,Taylor-Williams,973.85,472.8
+62,Books,Fiction,Thomas-Bird,333.45,133.67
+63,Books,Non-Fiction,"Reid, Webb and Harris",1853.4,1323.42
+64,Home,Kitchen,Roberson and Sons,1394.7,965.41
+65,Toys,Board,Armstrong-Phelps,1438.22,664.34
+66,Home,Furniture,Church Ltd,1937.58,1223.92
+67,Toys,Action,"Torres, Hamilton and Boone",1497.21,633.12
+68,Toys,Educational,Schmidt Group,1008.19,747.16
+69,Clothing,Men,Martin PLC,1921.75,830.28
+70,Clothing,Men,"Wright, Martinez and Bell",1192.1,798.81
+71,Clothing,Women,"Leon, Turner and Jackson",244.17,184.62
+72,Clothing,Kids,Brown-Graham,1191.07,771.52
+73,Books,Comics,Wolfe LLC,1169.43,712.32
+74,Home,Furniture,"Webb, Butler and Jones",1341.1,704.98
+75,Home,Kitchen,"Murphy, Farmer and Watson",266.1,175.15
+76,Books,Non-Fiction,Mason PLC,1858.39,1438.94
+77,Electronics,Laptop,"Smith, Long and Ball",1244.21,777.88
+78,Electronics,Mobile,White PLC,1077.58,649.08
+79,Clothing,Women,"Hernandez, Stone and Winters",1762.32,1324.75
+80,Home,Kitchen,Martinez Inc,319.7,234.5
+81,Home,Decor,Vazquez Ltd,1967.79,1422.4
+82,Toys,Action,Cummings LLC,1337.39,831.64
+83,Electronics,Mobile,Hernandez-Stone,532.61,402.59
+84,Toys,Action,"Butler, Keller and Eaton",548.33,351.99
+85,Home,Furniture,Turner PLC,1376.56,1020.26
+86,Toys,Educational,"Bates, Taylor and Conley",505.99,386.2
+87,Electronics,Mobile,Ortega Inc,1270.4,929.6
+88,Electronics,Mobile,Malone-Peterson,670.45,303.26
+89,Home,Furniture,Davis PLC,1483.76,920.93
+90,Books,Comics,King and Sons,24.29,10.45
+91,Clothing,Kids,Mcclure and Sons,76.88,42.11
+92,Toys,Action,Moore Group,862.42,359.4
+93,Home,Furniture,"Graves, Chapman and Watts",1798.35,870.46
+94,Clothing,Kids,Cisneros-Sims,210.07,149.58
+95,Books,Comics,Miranda Group,1500.21,1155.62
+96,Clothing,Men,Costa-Frazier,1952.53,1414.23
+97,Books,Fiction,Lozano-Gilbert,362.82,279.3
+98,Books,Comics,Simmons Group,1728.81,1252.18
+99,Home,Furniture,Foley-Wade,1575.81,698.46
+100,Electronics,Laptop,Walker Inc,448.76,326.08
+101,Books,Non-Fiction,"Greer, Barker and Roberts",613.86,440.84
+102,Clothing,Men,Austin and Sons,52.21,24.92
+103,Home,Kitchen,Mcdaniel LLC,1729.38,1360.6
+104,Home,Kitchen,Coleman-Torres,1284.76,719.3
+105,Toys,Educational,Davis-Murphy,1878.78,838.19
+106,Home,Furniture,"Buchanan, Davis and Jones",1163.28,922.97
+107,Electronics,Mobile,Guzman-Cooke,1195.16,643.32
+108,Home,Kitchen,Lowe-Jones,1214.39,734.18
+109,Books,Comics,Brandt and Sons,384.21,160.51
+110,Books,Fiction,Kelly-Carlson,1042.24,753.13
+111,Clothing,Women,"Munoz, Parker and Brown",865.44,674.65
+112,Home,Decor,Silva and Sons,631.26,466.63
+113,Home,Decor,Perez Inc,622.02,350.42
+114,Books,Comics,"Mitchell, Rodriguez and Harvey",594.83,268.22
+115,Books,Comics,"Eaton, Mejia and Flores",1881.03,1262.03
+116,Clothing,Kids,"Reyes, Sanders and Knox",1140.36,641.37
+117,Electronics,Laptop,"Taylor, Johnston and Norton",577.39,330.24
+118,Toys,Board,"Cline, Richardson and Perez",1311.14,768.32
+119,Books,Comics,Moreno LLC,431.33,254.17
+120,Clothing,Kids,Johnson and Sons,174.17,105.58
+121,Toys,Educational,"Evans, Rodriguez and Thompson",191.31,149.37
+122,Clothing,Kids,"Spencer, Guzman and Baker",624.29,451.13
+123,Clothing,Men,Ortiz-Cook,97.2,77.14
+124,Toys,Action,"Lin, Zimmerman and Davidson",913.56,689.24
+125,Toys,Action,"Howard, Velasquez and Smith",1438.1,796.12
+126,Books,Fiction,Page and Sons,299.4,202.11
+127,Electronics,Laptop,"Perkins, Werner and Byrd",441.59,318.67
+128,Toys,Educational,"Hughes, Reynolds and Johnson",105.19,52.56
+129,Electronics,Laptop,"Leon, Herrera and Cruz",271.01,158.77
+130,Toys,Board,Hall-Gallegos,1192.93,930.5
+131,Books,Comics,Nash-Singh,1630.94,1234.31
+132,Books,Comics,"Leonard, Price and Garrett",894.6,414.79
+133,Books,Non-Fiction,Fisher Inc,522.09,260.47
+134,Home,Decor,Arnold-Johnson,971.77,481.7
+135,Books,Fiction,Byrd Group,1428.52,705.4
+136,Home,Kitchen,Nelson-Bell,1786.59,772.22
+137,Clothing,Men,Hunt-Brown,769.16,354.68
+138,Clothing,Men,Anderson Group,832.66,443.27
+139,Books,Non-Fiction,King-Rowe,129.22,94.74
+140,Books,Comics,Graves-Patterson,1892.39,771.74
+141,Toys,Educational,Wu-Perez,956.57,743.35
+142,Home,Kitchen,"Stewart, Martinez and Rowe",1707.63,1334.29
+143,Books,Comics,Gilbert-Woodward,1496.29,925.38
+144,Toys,Action,"Anderson, Pruitt and Hernandez",979.02,498.49
+145,Books,Fiction,Watkins-Osborne,780.77,521.2
+146,Books,Comics,"Valdez, Price and Gibson",334.26,196.2
+147,Clothing,Kids,"Baker, White and Singh",1070.58,816.61
+148,Toys,Board,Yates-Anderson,1327.68,575.65
+149,Books,Fiction,Lee-Richardson,1734.37,819.82
+150,Home,Kitchen,Williams-Clark,658.07,382.92
+151,Home,Kitchen,"Williams, Kelley and Bush",560.12,437.16
+152,Books,Non-Fiction,"Flores, Anderson and Meadows",1670.65,982.55
+153,Toys,Action,"Henderson, Torres and Davidson",1999.82,1079.87
+154,Electronics,Camera,"Fernandez, Ingram and Perry",85.31,35.18
+155,Clothing,Men,Chavez-Cabrera,1679.26,1089.06
+156,Clothing,Men,"Coffey, Meyers and Maldonado",949.75,423.36
+157,Clothing,Women,Shields and Sons,1400.43,989.77
+158,Clothing,Kids,"Murphy, Jones and Reid",1216.46,850.51
+159,Electronics,Mobile,"Peterson, Martin and Parker",1929.62,855.28
+160,Electronics,Laptop,Johnson-Washington,1153.71,880.52
+161,Books,Non-Fiction,"Thomas, Hall and Robertson",1883.23,902.69
+162,Toys,Board,Drake Ltd,1661.99,826.24
+163,Home,Decor,Hernandez-Jarvis,1202.82,539.37
+164,Toys,Action,Little Group,697.67,398.61
+165,Home,Furniture,West-Johnson,1014.39,544.21
+166,Books,Non-Fiction,"Mcclain, Lambert and Miranda",215.55,169.06
+167,Books,Comics,Green-James,310.22,145.94
+168,Toys,Board,"Phillips, Herring and Meyer",543.81,393.33
+169,Toys,Educational,Harris-Harrington,932.42,680.94
+170,Toys,Educational,"Scott, White and Patterson",648.0,322.83
+171,Electronics,Laptop,Gordon-Copeland,1763.85,877.6
+172,Books,Comics,"Wright, Sullivan and Rodriguez",1222.61,674.39
+173,Electronics,Laptop,Gonzalez PLC,1702.65,804.9
+174,Clothing,Women,"Gray, Hardy and Davis",1596.68,856.04
+175,Toys,Board,"Williams, Wilkins and Thomas",1760.81,1095.78
+176,Toys,Action,"Strickland, Griffin and Fuentes",175.8,120.96
+177,Books,Comics,Wright Ltd,1517.54,1026.23
+178,Books,Non-Fiction,Harris-Johnson,1586.9,693.83
+179,Clothing,Women,Garcia-Oneal,1385.12,723.7
+180,Toys,Educational,"Price, Clark and Tate",949.15,581.23
+181,Books,Comics,Richard PLC,1103.03,596.44
+182,Books,Non-Fiction,Pierce and Sons,616.71,303.55
+183,Clothing,Women,"Young, Hernandez and Liu",243.51,149.6
+184,Clothing,Men,"Phillips, Moore and Cunningham",436.69,259.25
+185,Toys,Board,"Brown, Peterson and Miller",1195.6,947.16
+186,Clothing,Women,Morales Ltd,458.83,216.47
+187,Electronics,Camera,Weaver-Hayes,1070.6,545.71
+188,Electronics,Camera,Taylor-Phillips,587.81,457.1
+189,Books,Fiction,Holt-Gonzales,1746.08,1099.38
+190,Books,Non-Fiction,Bell Group,883.74,418.67
+191,Electronics,Laptop,"Espinoza, Donaldson and Shelton",1882.42,1112.68
+192,Electronics,Laptop,"Mckee, Fields and Garcia",986.03,622.0
+193,Electronics,Mobile,Burke Inc,302.65,189.2
+194,Home,Furniture,Jones-Clark,1987.87,889.33
+195,Books,Comics,Buck-Fields,1194.27,773.13
+196,Toys,Educational,"Santiago, Espinoza and Miller",903.78,521.56
+197,Toys,Educational,"Martinez, Parks and Grimes",614.23,398.27
+198,Toys,Board,Oliver-Gutierrez,202.97,143.11
+199,Clothing,Women,Mills-Fuller,1322.55,612.11
+200,Clothing,Kids,Smith-Allen,154.75,62.07
+201,Books,Comics,"Brown, Flynn and Cummings",1189.65,614.46
+202,Clothing,Women,Hampton-Gordon,1415.38,964.15
+203,Books,Fiction,Becker-Gardner,1376.33,1059.17
+204,Toys,Board,Ferrell PLC,1608.79,770.82
+205,Electronics,Camera,"Carney, Morris and Sutton",453.49,208.42
+206,Home,Furniture,Harvey-Lopez,147.46,68.77
+207,Home,Decor,"Guerrero, Arnold and Lester",1499.17,941.0
+208,Home,Kitchen,Simmons and Sons,253.09,170.96
+209,Books,Non-Fiction,Thompson-Santiago,1003.44,599.57
+210,Electronics,Camera,Sanchez-Perez,84.52,48.41
+211,Home,Decor,Owens Ltd,504.48,220.22
+212,Toys,Board,Padilla-Oneal,1901.82,1521.13
+213,Home,Decor,Strong-Fox,85.26,59.9
+214,Books,Comics,"Burgess, Walton and Romero",1304.76,1000.01
+215,Clothing,Kids,"Estrada, Klein and Torres",874.59,634.69
+216,Electronics,Laptop,King-Warren,699.18,372.89
+217,Electronics,Mobile,Kim Ltd,662.96,449.14
+218,Home,Decor,Anderson-Chen,1890.66,1371.53
+219,Toys,Action,Tucker-Oconnor,912.38,479.74
+220,Home,Furniture,"Holt, Russell and Nolan",1940.52,1089.93
+221,Toys,Action,Cole-Obrien,1317.03,812.66
+222,Books,Fiction,Jackson Ltd,379.23,206.57
+223,Books,Comics,Jenkins Ltd,886.87,373.06
+224,Home,Decor,Lutz PLC,266.37,137.24
+225,Books,Fiction,Porter-Brown,62.59,40.81
+226,Clothing,Kids,Moore-Richards,320.96,199.1
+227,Toys,Educational,Gray Ltd,190.95,152.17
+228,Electronics,Laptop,Flores-Martin,1894.39,1248.56
+229,Clothing,Women,Kane Inc,1865.64,964.06
+230,Home,Kitchen,Harris-Hoover,1670.27,1323.02
+231,Clothing,Women,Kelley Group,1104.77,611.42
+232,Toys,Board,Marshall-Owen,1493.85,679.11
+233,Electronics,Laptop,Simon-Castro,1546.49,1147.13
+234,Home,Decor,Long Group,538.01,215.76
+235,Home,Decor,Powell Ltd,1161.95,771.51
+236,Clothing,Women,"Phillips, Fisher and Bradley",1079.47,580.81
+237,Toys,Board,"Johnston, Barton and Craig",757.53,585.68
+238,Clothing,Kids,Miller-Martinez,481.42,266.32
+239,Books,Fiction,Murphy Inc,639.76,376.94
+240,Books,Non-Fiction,Long-Horton,1976.89,1417.35
+241,Clothing,Women,"Rosario, Cabrera and Turner",1929.82,869.38
+242,Toys,Educational,Randall Group,1740.05,1304.47
+243,Books,Fiction,Walker and Sons,1054.27,614.4
+244,Clothing,Women,Duncan-Cook,1742.51,1373.07
+245,Electronics,Laptop,Brown PLC,1564.14,791.47
+246,Toys,Board,James Inc,797.98,344.83
+247,Home,Decor,"Sanchez, Gibbs and Ramirez",1719.39,949.11
+248,Home,Decor,Hodges Inc,1438.84,1012.6
+249,Toys,Action,"Warner, Lee and Yoder",1236.83,610.88
+250,Home,Furniture,"Guerrero, Williams and Newman",1494.8,857.4
+251,Electronics,Camera,"Orr, Dillon and Lee",1409.26,620.36
+252,Clothing,Kids,"Carlson, Ruiz and Wong",602.43,247.95
+253,Home,Furniture,Smith Inc,590.27,324.61
+254,Clothing,Men,Monroe Group,1064.68,666.88
+255,Clothing,Men,Morales-Carroll,354.26,228.07
+256,Books,Comics,Phillips and Sons,1367.85,819.43
+257,Toys,Action,Powers-Jackson,468.22,306.76
+258,Books,Non-Fiction,"Garcia, Vance and Perez",1335.35,1014.28
+259,Books,Non-Fiction,Perry Group,1356.83,628.47
+260,Books,Non-Fiction,Davis-Rivera,1975.37,1026.52
+261,Books,Comics,"Lane, Smith and Harrington",503.95,371.98
+262,Clothing,Women,Benton LLC,1707.4,755.8
+263,Books,Comics,Higgins-Davis,721.12,373.79
+264,Home,Furniture,Lopez-Johnson,1956.0,1297.4
+265,Home,Furniture,Evans-Terry,1134.03,764.7
+266,Electronics,Camera,Hood-Douglas,1491.62,1093.56
+267,Home,Furniture,Cortez PLC,1216.09,657.82
+268,Clothing,Kids,"Wright, Levine and Downs",505.0,354.63
+269,Clothing,Kids,"Sullivan, Small and Gordon",198.84,129.44
+270,Electronics,Laptop,Hatfield-Kirby,1578.28,652.38
+271,Home,Decor,Rivera and Sons,267.17,204.08
+272,Home,Decor,"Coleman, Nelson and Bernard",833.93,400.55
+273,Toys,Educational,"Robles, Moss and Wheeler",1064.05,814.42
+274,Clothing,Women,Alexander Inc,1828.53,1422.0
+275,Home,Decor,"Williamson, Martin and Robertson",1741.44,1256.79
+276,Books,Fiction,"Griffith, Hood and Hall",285.81,224.82
+277,Books,Comics,Hatfield-Medina,734.72,526.26
+278,Electronics,Laptop,"Chandler, Myers and Gibson",1075.46,625.83
+279,Home,Decor,Fitzpatrick-Lowe,765.15,501.49
+280,Home,Furniture,Hughes and Sons,1351.3,795.36
+281,Toys,Board,Brown Ltd,659.37,424.66
+282,Electronics,Camera,Johnson PLC,1648.59,1259.12
+283,Home,Decor,"King, Lyons and Wilson",819.55,373.64
+284,Electronics,Laptop,"Williams, Dixon and Myers",1991.88,889.27
+285,Clothing,Kids,"Campbell, Stephens and Barr",275.65,160.28
+286,Toys,Educational,Perry-Jimenez,1176.74,812.7
+287,Books,Comics,Clements-Ray,202.55,120.67
+288,Books,Non-Fiction,Flynn PLC,70.27,38.52
+289,Books,Non-Fiction,Hall-Austin,1901.36,1411.15
+290,Electronics,Camera,White-Thompson,737.83,561.25
+291,Home,Furniture,"King, Lowe and Carr",799.29,380.4
+292,Electronics,Laptop,Wong-Lopez,187.89,91.1
+293,Toys,Action,Flores Group,105.9,56.49
+294,Clothing,Kids,Schroeder Ltd,414.39,303.3
+295,Toys,Action,Thompson LLC,1174.83,852.01
+296,Clothing,Women,Carson-Kelly,1549.87,1108.87
+297,Toys,Action,"Flores, Lee and Gutierrez",558.16,442.96
+298,Clothing,Kids,"Whitehead, Scott and Manning",505.06,237.28
+299,Electronics,Mobile,Blair-Weber,34.65,24.81
+300,Clothing,Kids,Schmidt Ltd,650.92,305.74
+301,Electronics,Mobile,Murphy-Li,1484.73,906.33
+302,Electronics,Laptop,"Horton, Lewis and Schmidt",899.31,489.96
+303,Toys,Action,"Taylor, Smith and Tucker",906.75,443.06
+304,Toys,Action,Johnson Group,1455.85,1111.54
+305,Toys,Educational,"White, Chavez and Gonzalez",918.79,721.81
+306,Electronics,Laptop,Ford-Smith,1695.36,967.22
+307,Electronics,Laptop,Collins LLC,1426.24,823.55
+308,Electronics,Laptop,"Fernandez, Oneal and Gibbs",1218.55,519.43
+309,Home,Decor,Simpson-Watson,1267.99,785.32
+310,Home,Kitchen,"Arroyo, Nelson and Anderson",1989.28,1217.88
+311,Books,Comics,Tucker-Hurst,1212.83,533.25
+312,Electronics,Camera,Daniels-Rivera,1303.58,922.39
+313,Clothing,Women,Hamilton Group,905.85,445.13
+314,Home,Kitchen,Arnold Group,800.47,553.8
+315,Home,Kitchen,Hamilton-Edwards,628.48,315.47
+316,Clothing,Kids,Murray-Schroeder,1846.36,788.12
+317,Electronics,Mobile,Case LLC,866.59,604.74
+318,Home,Furniture,"Esparza, Rodriguez and Payne",1114.96,707.54
+319,Toys,Board,Bishop PLC,662.64,297.45
+320,Home,Decor,"Young, Keller and Warren",1882.55,1071.5
+321,Electronics,Laptop,Burns Group,1202.82,650.31
+322,Toys,Board,Blake Group,429.41,284.57
+323,Clothing,Men,Newman Inc,703.48,437.92
+324,Electronics,Laptop,Walker and Sons,1150.33,831.56
+325,Toys,Board,White LLC,1229.08,807.6
+326,Electronics,Camera,Sanders-Miller,1858.52,1360.04
+327,Home,Furniture,Robertson-Pearson,364.93,248.55
+328,Home,Kitchen,Woodard-Lee,705.29,333.29
+329,Clothing,Kids,Yates Inc,1316.4,563.2
+330,Electronics,Mobile,Jones-West,1493.49,725.92
+331,Books,Non-Fiction,"Castaneda, Ibarra and Tran",685.09,375.44
+332,Home,Decor,Marshall LLC,1194.47,899.84
+333,Clothing,Men,"Kennedy, Flowers and Deleon",1510.1,634.1
+334,Electronics,Laptop,Thompson-King,889.01,506.39
+335,Toys,Educational,Montoya Ltd,831.3,404.2
+336,Toys,Action,Kelley PLC,693.62,308.21
+337,Toys,Educational,Fisher LLC,1056.23,552.8
+338,Clothing,Women,"White, Barber and White",1968.97,830.73
+339,Clothing,Women,Adams-Lee,1890.92,1336.77
+340,Home,Kitchen,Maddox-Payne,659.6,265.88
+341,Books,Fiction,"Gomez, Franco and Santos",262.73,161.06
+342,Clothing,Kids,Woods PLC,1119.65,747.05
+343,Home,Furniture,King-Robinson,797.16,555.47
+344,Books,Fiction,Moss-Simpson,922.21,397.61
+345,Home,Decor,Hall Group,861.42,483.92
+346,Books,Non-Fiction,"Reyes, Chandler and Campbell",234.77,95.87
+347,Home,Furniture,Powell-Brown,1603.64,1037.96
+348,Home,Furniture,"Sullivan, Barnes and Smith",876.24,387.6
+349,Books,Comics,Stephens-Hall,803.9,346.85
+350,Home,Decor,"Wright, Reed and Anderson",682.33,363.84
+351,Clothing,Men,Brown-Wilson,1023.41,456.04
+352,Toys,Action,"Hart, Pruitt and Young",1812.32,978.2
+353,Clothing,Men,"Ellis, Marshall and Taylor",210.1,105.55
+354,Clothing,Kids,"Hensley, Rivera and Jones",309.98,218.12
+355,Electronics,Mobile,Williams LLC,1902.83,1239.08
+356,Books,Comics,Proctor Inc,1520.95,881.48
+357,Toys,Board,Velasquez LLC,1272.42,826.83
+358,Home,Furniture,"Cochran, Johnson and Green",882.33,518.43
+359,Home,Kitchen,"Robbins, Horton and Reyes",1184.88,640.76
+360,Electronics,Laptop,"Valencia, Simmons and Riley",926.18,384.4
+361,Home,Kitchen,Simpson Ltd,158.08,117.88
+362,Electronics,Camera,Lewis PLC,1190.19,659.12
+363,Toys,Board,Meyer LLC,1908.69,1327.62
+364,Electronics,Laptop,"Livingston, Williams and Jackson",1818.55,1143.25
+365,Clothing,Women,Anderson-Middleton,1211.99,727.86
+366,Electronics,Laptop,Mcdonald-Bennett,211.49,160.66
+367,Home,Decor,Forbes Ltd,173.24,114.07
+368,Electronics,Mobile,Wilson-Gaines,1416.71,1128.26
+369,Toys,Board,Walker-Cole,1221.56,666.43
+370,Home,Kitchen,Greene-Torres,820.49,439.25
+371,Toys,Action,"West, Jones and Johnson",1579.51,1040.77
+372,Electronics,Laptop,"Dawson, Gibbs and Harrison",193.54,129.93
+373,Home,Kitchen,Williams LLC,1448.85,960.05
+374,Toys,Action,Sharp Group,670.06,424.21
+375,Clothing,Women,Carter Ltd,623.91,413.29
+376,Books,Fiction,Smith-Burke,1192.11,924.12
+377,Home,Decor,Marks-Olson,756.48,542.14
+378,Clothing,Kids,House Ltd,1407.15,1095.95
+379,Toys,Action,"Powell, Greene and Parrish",1293.82,736.65
+380,Home,Furniture,"Foster, Hodges and Perez",728.38,343.87
+381,Clothing,Women,Noble-Kelley,1895.6,1126.95
+382,Clothing,Men,"Randolph, Perez and Fox",314.12,162.81
+383,Electronics,Camera,Frye Group,1542.9,1132.56
+384,Toys,Action,"Hampton, Preston and Ayala",1325.55,994.9
+385,Toys,Action,Peters-Cook,1196.51,552.43
+386,Clothing,Kids,"Munoz, Myers and Moore",1543.34,1116.79
+387,Clothing,Kids,"Grant, Turner and Jones",878.16,495.58
+388,Clothing,Women,Lozano-Hill,1223.14,857.37
+389,Books,Fiction,"Moreno, Sherman and Cooper",1070.35,560.64
+390,Books,Fiction,Dunn PLC,738.84,575.45
+391,Books,Non-Fiction,Patel Ltd,1540.03,1095.35
+392,Toys,Board,Smith Inc,840.23,390.56
+393,Clothing,Kids,"Jacobson, Cardenas and Keith",281.11,140.56
+394,Books,Non-Fiction,Smith-Flowers,1111.31,490.13
+395,Toys,Action,"Barron, Smith and Miller",573.7,404.6
+396,Home,Kitchen,"Williams, Steele and Jones",1811.09,831.18
+397,Books,Fiction,Crane-Pollard,1893.09,925.37
+398,Books,Non-Fiction,Kennedy-Jackson,1861.29,1053.41
+399,Books,Comics,Clarke Ltd,751.05,416.43
+400,Electronics,Laptop,Hendrix Group,452.95,238.92
+401,Electronics,Camera,Leon-Whitney,1301.67,932.71
+402,Clothing,Men,"Edwards, Stewart and Reed",577.32,422.54
+403,Clothing,Kids,"Berry, Harvey and Krueger",940.87,607.93
+404,Electronics,Mobile,Kane-Beck,515.57,378.42
+405,Toys,Board,"Pruitt, Livingston and Wallace",1219.72,694.39
+406,Home,Furniture,"Mack, Ramirez and Herman",605.8,253.89
+407,Books,Comics,Bauer-Valdez,1588.83,926.04
+408,Electronics,Laptop,"Kirk, Rich and Contreras",1195.49,486.06
+409,Toys,Board,Barnes-Clark,487.67,223.08
+410,Books,Fiction,Scott-Williams,1231.55,611.13
+411,Books,Fiction,Hudson-James,1330.42,577.73
+412,Home,Furniture,Owens and Sons,1907.04,1177.85
+413,Toys,Board,"Riley, Carrillo and Lam",45.57,34.15
+414,Electronics,Camera,Johnston-Thomas,776.83,426.73
+415,Electronics,Laptop,Carter PLC,1578.1,848.89
+416,Electronics,Camera,"Oconnor, Walker and Lewis",1471.7,784.43
+417,Electronics,Laptop,Montgomery-Ford,1094.3,793.81
+418,Clothing,Kids,Townsend Group,931.92,631.99
+419,Clothing,Men,Alvarez LLC,130.89,92.99
+420,Books,Fiction,Bates PLC,590.42,246.51
+421,Clothing,Men,Wilson-Francis,634.61,332.55
+422,Books,Comics,Nelson Ltd,949.43,393.68
+423,Clothing,Women,Jones Ltd,717.16,510.86
+424,Home,Kitchen,"Serrano, Hernandez and Ward",253.33,138.62
+425,Books,Comics,Clay and Sons,882.27,690.46
+426,Home,Furniture,Phillips-Hill,994.93,595.97
+427,Toys,Educational,"Shaw, Martinez and Hernandez",1603.29,1107.6
+428,Electronics,Laptop,Andrews Inc,1206.89,879.75
+429,Toys,Educational,Smith LLC,645.82,279.01
+430,Home,Kitchen,Flores PLC,894.6,614.65
+431,Clothing,Kids,"Jones, Nelson and Jones",890.6,515.53
+432,Home,Decor,Contreras PLC,1996.31,1017.76
+433,Electronics,Mobile,Lamb Group,1344.01,755.98
+434,Toys,Board,Madden-Simmons,1360.42,1062.65
+435,Clothing,Kids,Williams Group,1357.79,781.09
+436,Clothing,Men,Yoder PLC,475.81,313.11
+437,Home,Kitchen,"Fisher, Jones and Johnson",1899.19,784.28
+438,Clothing,Kids,"Martin, Shaw and Phillips",902.6,494.97
+439,Books,Fiction,Garcia and Sons,1149.97,703.53
+440,Books,Non-Fiction,Johnston-Pierce,1300.87,650.23
+441,Electronics,Mobile,Montoya Ltd,1472.67,883.04
+442,Books,Comics,"Duarte, Jimenez and Fischer",239.93,170.35
+443,Books,Fiction,Lee-Porter,1992.75,1024.73
+444,Books,Fiction,"Foster, Davis and Hutchinson",249.66,185.03
+445,Books,Fiction,Henry LLC,1797.86,1039.24
+446,Electronics,Camera,Lin-Morales,1935.28,1537.83
+447,Home,Decor,"Lopez, Jackson and Yang",134.55,83.0
+448,Home,Furniture,Santana-Harper,1425.06,1098.62
+449,Clothing,Women,Williams LLC,1019.97,457.5
+450,Clothing,Men,Hinton-Williams,477.29,285.23
+451,Home,Decor,"Ochoa, Murray and Anderson",1146.69,673.06
+452,Toys,Action,"Frank, Castro and Orozco",1225.84,532.61
+453,Home,Kitchen,"Tucker, Nguyen and Smith",1999.19,1374.54
+454,Toys,Educational,"Hardy, Hahn and Sims",1539.48,1122.8
+455,Electronics,Mobile,"Ballard, Jones and Guzman",1944.9,1277.67
+456,Books,Non-Fiction,Collins Inc,1361.82,732.39
+457,Toys,Board,Hunter-Ramsey,1177.63,832.72
+458,Clothing,Women,"Gaines, Brown and Green",1008.21,753.42
+459,Electronics,Camera,Salazar-Taylor,310.27,144.54
+460,Home,Decor,Graham-Williams,454.81,354.29
+461,Toys,Educational,Duffy Ltd,1692.64,846.73
+462,Toys,Educational,"Bailey, Robertson and Anthony",254.71,132.74
+463,Toys,Action,"Schultz, Suarez and Torres",1007.63,471.02
+464,Toys,Action,"Mendoza, Morgan and Jordan",346.55,225.19
+465,Toys,Educational,Short-Castillo,1685.85,1054.41
+466,Electronics,Mobile,"Hicks, Alvarado and Boyd",95.7,62.83
+467,Toys,Educational,Gonzalez-Hardy,1304.0,921.65
+468,Books,Comics,"Weaver, Howell and Walter",1279.79,766.87
+469,Toys,Educational,"Smith, Shaw and Long",1285.61,669.59
+470,Clothing,Kids,"Oliver, Larsen and Crawford",815.15,473.94
+471,Electronics,Mobile,Lewis-Gonzalez,882.01,523.65
+472,Clothing,Women,Mcdonald and Sons,1215.29,638.07
+473,Home,Decor,"Jones, Lynch and Roman",1976.11,1063.44
+474,Books,Fiction,Harrell-Robertson,1522.53,922.64
+475,Electronics,Laptop,"Holmes, Miller and Simon",487.27,218.79
+476,Books,Fiction,Mitchell-Bernard,286.05,120.21
+477,Books,Comics,Marshall PLC,839.18,658.82
+478,Clothing,Women,"Atkins, Houston and Anderson",1867.83,1285.91
+479,Clothing,Men,Hicks and Sons,999.04,605.31
+480,Books,Non-Fiction,York and Sons,997.25,434.82
+481,Books,Comics,Shelton Ltd,917.18,455.19
+482,Toys,Educational,"Nicholson, Herrera and Johnson",102.07,52.32
+483,Toys,Board,"Smith, Taylor and Ortega",1346.68,692.6
+484,Electronics,Mobile,"Gutierrez, Holt and Burton",864.7,651.1
+485,Home,Kitchen,"Yu, Diaz and Green",735.05,411.8
+486,Toys,Board,"Williams, Wade and Smith",393.34,244.38
+487,Electronics,Laptop,Martin-Hughes,1010.99,713.52
+488,Home,Decor,"Williams, Green and Anderson",1362.4,609.71
+489,Electronics,Laptop,Howell-Doyle,749.53,595.66
+490,Toys,Educational,"Morton, Washington and Williams",1511.16,724.79
+491,Toys,Educational,"Thomas, Aguilar and Combs",1002.66,419.23
+492,Clothing,Kids,Stuart-Townsend,669.42,394.62
+493,Books,Fiction,Long-Martinez,1214.49,736.23
+494,Home,Decor,Robinson-Stark,640.47,356.86
+495,Toys,Board,Walters-Thompson,1685.99,1074.8
+496,Toys,Board,Rhodes-Armstrong,1067.02,729.3
+497,Home,Kitchen,Jones-Ford,1632.42,893.49
+498,Electronics,Laptop,"Bridges, Wells and Shaw",1169.49,840.51
+499,Electronics,Camera,Ramirez-Bryant,951.81,748.91
+500,Toys,Board,Henry-Miller,458.95,193.01
+501,Books,Fiction,"Moore, Best and Dennis",1050.84,723.48
+502,Books,Fiction,"Gordon, Wilson and Anthony",1644.21,816.97
+503,Toys,Board,Allen LLC,224.24,91.39
+504,Home,Kitchen,"Martin, Carter and Williams",307.11,207.67
+505,Books,Comics,Travis-Romero,1551.07,1191.54
+506,Electronics,Camera,"Maddox, Leonard and Hurley",280.47,135.45
+507,Home,Decor,Vasquez Group,959.35,528.34
+508,Clothing,Women,"Moore, Martin and Bright",1824.69,979.73
+509,Home,Decor,Garza-Alvarez,1545.12,1063.61
+510,Home,Decor,Patton Group,970.94,760.18
+511,Home,Decor,Lee Ltd,600.51,466.35
+512,Home,Kitchen,Todd Ltd,1411.28,954.16
+513,Books,Non-Fiction,Williams LLC,962.21,600.61
+514,Home,Kitchen,"Lopez, Young and Fitzgerald",248.14,166.41
+515,Books,Non-Fiction,Mcdaniel and Sons,1637.66,1280.39
+516,Clothing,Women,Price Inc,88.92,69.55
+517,Electronics,Laptop,Mejia PLC,1848.4,1224.36
+518,Books,Fiction,Banks Inc,408.13,251.18
+519,Toys,Board,Mitchell-Martin,546.88,242.65
+520,Toys,Action,"Watson, Rios and Brown",488.7,326.42
+521,Toys,Action,Walter and Sons,1277.7,537.91
+522,Books,Non-Fiction,Roberts and Sons,1436.13,632.21
+523,Clothing,Men,"Knight, Nichols and Dyer",1929.21,1526.32
+524,Clothing,Women,Anderson-Aguilar,1307.52,983.59
+525,Books,Non-Fiction,White-King,1302.82,915.05
+526,Home,Kitchen,Wilson Group,574.4,243.35
+527,Electronics,Camera,Hernandez and Sons,1150.4,706.42
+528,Electronics,Mobile,"Long, Reed and Cook",838.68,616.46
+529,Electronics,Laptop,"Brewer, Pitts and Oneill",1576.98,748.32
+530,Home,Furniture,Friedman Group,23.49,14.73
+531,Electronics,Laptop,"Mullins, Giles and Webb",572.7,455.66
+532,Toys,Board,Mora Inc,990.36,767.95
+533,Toys,Educational,Wilson-Olson,549.31,397.44
+534,Home,Furniture,Little-Skinner,1463.58,964.96
+535,Clothing,Men,"Jordan, Ortega and Hamilton",1474.55,1056.23
+536,Toys,Board,Davis-Moore,1515.78,712.72
+537,Books,Non-Fiction,"Tucker, Butler and Hill",1032.98,449.03
+538,Electronics,Mobile,Scott PLC,1963.46,1160.37
+539,Clothing,Men,Hodges-Martinez,525.27,259.59
+540,Home,Kitchen,"Wong, Cole and Frazier",607.38,418.58
+541,Electronics,Laptop,Griffin Inc,1309.1,886.4
+542,Electronics,Camera,"Lewis, Phillips and Herrera",240.86,125.9
+543,Books,Comics,Fox-Edwards,1007.53,763.76
+544,Home,Decor,Cook-Simon,239.24,183.37
+545,Home,Kitchen,"Williams, Richardson and Nichols",1231.18,600.39
+546,Clothing,Women,Dunn PLC,310.61,217.15
+547,Toys,Educational,"Best, Mason and Garcia",834.61,517.2
+548,Books,Comics,Palmer-King,1604.98,1172.02
+549,Clothing,Kids,Gaines-Young,1510.71,1131.91
+550,Electronics,Camera,Jackson and Sons,896.26,610.81
+551,Electronics,Camera,Atkinson Inc,228.86,167.41
+552,Toys,Action,Glass-Owens,1147.54,527.8
+553,Home,Decor,"Miller, Kirby and Hoffman",886.47,595.81
+554,Toys,Educational,Davis Ltd,186.43,112.63
+555,Electronics,Laptop,Dixon Ltd,268.23,151.86
+556,Toys,Action,"Diaz, Holland and Simmons",1119.8,749.27
+557,Home,Decor,"Valentine, Robinson and Ellis",48.43,24.3
+558,Electronics,Camera,Perez-Jimenez,439.71,188.73
+559,Books,Non-Fiction,Morton-Stewart,1402.27,864.45
+560,Electronics,Mobile,Knight Group,1972.34,1161.37
+561,Home,Kitchen,"Johnson, Barber and Smith",364.06,165.35
+562,Books,Non-Fiction,Rios-Guerra,1985.75,1098.1
+563,Books,Non-Fiction,Kennedy-Ruiz,165.1,129.71
+564,Toys,Action,Brennan-Evans,1308.8,705.58
+565,Clothing,Kids,"Kelley, Sandoval and Maldonado",789.15,355.86
+566,Clothing,Men,"Schultz, Sanchez and Bennett",1513.58,1197.84
+567,Books,Comics,Haynes-Conley,1439.59,820.06
+568,Books,Fiction,Buchanan-Hardy,498.79,268.58
+569,Home,Furniture,Owens and Sons,1875.13,1293.86
+570,Electronics,Mobile,Hall-Castillo,1619.91,919.62
+571,Electronics,Mobile,Peters-Pena,416.13,183.25
+572,Electronics,Laptop,"Johnson, Smith and Reid",1197.58,815.93
+573,Electronics,Mobile,Johnson-Alvarez,1482.38,831.48
+574,Clothing,Kids,Jackson LLC,438.45,326.86
+575,Electronics,Mobile,Davidson Inc,1010.27,521.0
+576,Toys,Educational,Jackson Group,1157.06,820.37
+577,Home,Furniture,Gonzales-Potter,607.02,277.59
+578,Toys,Action,Estrada-Rodriguez,830.05,423.38
+579,Toys,Board,Smith-Gutierrez,1760.03,1345.77
+580,Books,Comics,Horne LLC,993.76,783.99
+581,Books,Comics,Howard-Gomez,640.88,363.08
+582,Clothing,Women,"Harris, Newman and Rose",756.04,530.56
+583,Books,Fiction,"Gibson, Durham and Pineda",1699.44,884.21
+584,Clothing,Women,Roberts Inc,1829.91,1143.61
+585,Books,Comics,Conley-Wright,1062.33,589.98
+586,Home,Furniture,Walters and Sons,663.87,286.54
+587,Books,Non-Fiction,"Shaffer, Williams and Johnson",189.47,130.7
+588,Clothing,Men,"Thompson, Nguyen and Cunningham",540.58,361.9
+589,Toys,Action,Henderson Inc,1747.87,830.7
+590,Toys,Board,"Cooley, Keith and Kirk",1344.54,654.53
+591,Clothing,Women,Collins Ltd,609.86,465.69
+592,Clothing,Men,"Hartman, Lutz and Bradshaw",1924.34,860.04
+593,Books,Fiction,"Watson, Watson and Ali",1392.77,949.18
+594,Books,Fiction,Hudson Ltd,1106.4,785.77
+595,Books,Non-Fiction,Phillips LLC,1069.63,581.56
+596,Home,Kitchen,Stone PLC,1028.07,615.72
+597,Electronics,Camera,"Davis, Lopez and Ramirez",941.63,692.94
+598,Clothing,Women,Mitchell-Camacho,629.28,263.22
+599,Clothing,Kids,"Smith, Clark and Watson",296.12,149.34
+600,Toys,Board,Nelson and Sons,1441.42,746.77
+601,Clothing,Women,Newton-Contreras,463.89,291.28
+602,Clothing,Women,Shepard-Simpson,1103.53,857.87
+603,Home,Kitchen,Cox Group,1527.9,909.79
+604,Books,Non-Fiction,Cabrera-Koch,340.63,244.57
+605,Clothing,Men,Arellano-Robinson,1442.03,858.48
+606,Toys,Board,Haynes LLC,1914.69,1167.15
+607,Electronics,Camera,Long PLC,101.79,40.98
+608,Clothing,Kids,"Best, Mcknight and Klein",466.71,318.7
+609,Electronics,Mobile,"Harris, Leblanc and Nolan",1013.94,556.94
+610,Toys,Board,"Walker, Murray and Bennett",1335.18,863.34
+611,Books,Comics,Torres-Pearson,978.27,393.9
+612,Toys,Educational,Hall LLC,28.64,17.52
+613,Home,Decor,"Gentry, Porter and Hays",1955.07,795.43
+614,Books,Fiction,Diaz Inc,218.5,95.82
+615,Clothing,Men,Gross and Sons,387.9,236.84
+616,Home,Kitchen,Ibarra LLC,1590.9,686.64
+617,Books,Non-Fiction,Smith and Sons,1132.18,901.32
+618,Clothing,Women,"Burke, Carter and Burns",1369.66,1012.38
+619,Electronics,Mobile,"Gordon, Simpson and Kelly",813.53,448.15
+620,Books,Fiction,"Ramirez, Arnold and Nelson",1275.31,868.66
+621,Electronics,Laptop,Wilson Group,1691.43,1112.9
+622,Home,Decor,"Larson, Moore and Rodriguez",1954.77,1543.36
+623,Toys,Action,Johnson Group,463.38,352.4
+624,Toys,Educational,Gaines-Jones,545.83,420.11
+625,Home,Decor,Sanders-Moore,1129.2,466.54
+626,Home,Furniture,"Miller, Hill and Gonzalez",1923.13,1220.83
+627,Books,Fiction,Owens PLC,602.06,376.64
+628,Toys,Educational,Rodriguez Inc,1355.68,835.4
+629,Books,Comics,Torres-Roberts,284.2,226.05
+630,Electronics,Camera,"Lewis, Webster and Taylor",1492.19,803.31
+631,Electronics,Laptop,"Stephens, Jones and Stanley",468.13,201.49
+632,Toys,Board,Montes-Martinez,1909.94,1067.05
+633,Home,Furniture,Snyder Ltd,1270.08,906.1
+634,Books,Non-Fiction,"Brewer, Morris and Estrada",460.14,285.85
+635,Books,Non-Fiction,Richard PLC,375.55,238.23
+636,Books,Fiction,"Stewart, Lee and Harding",1545.47,800.79
+637,Clothing,Kids,Payne-Mason,151.65,76.92
+638,Books,Comics,Hall Ltd,1568.86,724.36
+639,Books,Non-Fiction,"Davis, White and Torres",724.6,316.37
+640,Home,Kitchen,Osborne PLC,723.04,367.24
+641,Clothing,Men,"Rivera, Jones and Johnson",378.85,219.56
+642,Toys,Board,"Delgado, Torres and Deleon",819.05,336.22
+643,Home,Decor,Jones Group,190.66,121.87
+644,Home,Kitchen,Foster-Wright,29.62,16.75
+645,Electronics,Camera,"Sandoval, Day and Davidson",1802.77,1373.86
+646,Clothing,Kids,"Garcia, Velez and Gordon",1044.6,704.19
+647,Clothing,Men,Harris and Sons,541.49,274.73
+648,Clothing,Men,White-Adams,338.58,172.81
+649,Home,Kitchen,Mitchell-Shah,1566.42,852.84
+650,Clothing,Kids,"Williams, Salinas and Abbott",1251.94,798.14
+651,Clothing,Women,"Larson, Torres and Chang",218.41,113.98
+652,Books,Non-Fiction,"Guzman, Hall and Gillespie",1684.02,929.5
+653,Home,Kitchen,Ross-Howard,672.8,488.58
+654,Toys,Action,"Tanner, Browning and Kelley",604.37,387.57
+655,Clothing,Women,Jones Ltd,631.8,496.49
+656,Home,Kitchen,Peters Group,1471.07,960.85
+657,Toys,Action,Smith PLC,655.14,335.51
+658,Books,Non-Fiction,Adams and Sons,232.21,145.26
+659,Toys,Board,Freeman Inc,363.95,257.33
+660,Electronics,Camera,Collins Ltd,925.94,632.74
+661,Books,Non-Fiction,"West, Lozano and Jackson",1663.41,711.38
+662,Books,Comics,"Lopez, Martin and Bailey",1001.11,654.06
+663,Clothing,Women,Daniels LLC,1319.03,904.98
+664,Books,Fiction,Garcia Inc,900.89,575.83
+665,Toys,Educational,Holland Group,1071.06,824.07
+666,Books,Comics,"Murphy, Jones and Becker",78.35,61.69
+667,Toys,Board,Knight-Murray,1278.17,554.72
+668,Clothing,Kids,"Sanders, Smith and Coleman",1331.06,620.99
+669,Toys,Action,Reyes-Melton,1128.62,742.65
+670,Books,Non-Fiction,"Parrish, Durham and Ramos",1931.6,1105.23
+671,Electronics,Mobile,"Hansen, Hernandez and White",521.18,314.93
+672,Toys,Board,Perez LLC,1163.13,732.88
+673,Books,Non-Fiction,"Price, Hill and Robles",785.31,556.74
+674,Toys,Board,Thompson-Lyons,1003.43,539.83
+675,Electronics,Laptop,"Johnson, Gregory and Stephens",213.58,120.97
+676,Electronics,Mobile,Conrad-Valdez,1663.48,1151.23
+677,Home,Kitchen,Ramirez PLC,689.42,492.04
+678,Toys,Educational,"Lopez, Dickson and Johnson",699.86,307.27
+679,Books,Non-Fiction,Krause-Bass,139.01,58.09
+680,Electronics,Mobile,Jones-Winters,1699.11,1120.03
+681,Clothing,Kids,"Schneider, Mcguire and Henderson",491.61,230.95
+682,Clothing,Women,Nguyen Inc,1121.9,878.88
+683,Clothing,Women,Mueller Group,1261.37,598.59
+684,Books,Non-Fiction,Estrada Group,63.24,40.83
+685,Clothing,Women,"Taylor, Roberts and Chapman",1186.45,659.11
+686,Clothing,Men,Duncan-Ryan,560.3,381.85
+687,Electronics,Camera,"Nunez, Miller and Willis",208.0,155.75
+688,Clothing,Women,Cook-Horne,655.34,382.08
+689,Home,Decor,Ward-Fernandez,1725.96,1054.71
+690,Home,Decor,Ruiz-Rice,780.34,434.66
+691,Electronics,Laptop,Duke-Simmons,707.21,412.41
+692,Clothing,Kids,Collins Inc,1413.45,733.55
+693,Toys,Board,"Rivers, Gonzalez and Adams",174.08,78.96
+694,Electronics,Mobile,Swanson-Turner,614.23,290.66
+695,Clothing,Kids,Garza Ltd,779.98,498.07
+696,Toys,Educational,Walter-Davenport,848.96,504.85
+697,Toys,Board,Brown-Wells,1838.73,1420.01
+698,Clothing,Kids,"Patterson, Stevenson and Gordon",337.9,174.2
+699,Clothing,Women,Barrett and Sons,1684.76,1091.33
+700,Home,Furniture,Pratt-Mckee,971.79,464.57
+701,Books,Comics,"Ramirez, Jones and Flynn",1013.35,605.97
+702,Books,Non-Fiction,Barber-Lewis,1421.73,821.11
+703,Clothing,Men,Palmer Inc,1132.97,813.87
+704,Clothing,Women,Yoder Inc,70.23,34.41
+705,Home,Furniture,Casey and Sons,1562.58,978.58
+706,Books,Comics,"Evans, Johnson and White",1024.06,644.22
+707,Home,Decor,"Riggs, Hurley and Blackwell",1647.45,900.73
+708,Electronics,Camera,"Castillo, Robinson and Padilla",885.53,431.62
+709,Books,Fiction,Harvey Group,1473.3,974.54
+710,Clothing,Women,Palmer PLC,1750.25,722.66
+711,Home,Kitchen,"Edwards, Newton and Johnson",1725.09,750.06
+712,Electronics,Mobile,"Archer, Rodriguez and Colon",423.71,294.5
+713,Home,Decor,Thomas-Williams,1222.47,698.36
+714,Toys,Action,Vega-Hurst,1570.77,1139.46
+715,Electronics,Camera,Moreno-Rush,704.88,361.2
+716,Toys,Action,"Kelley, Villa and Murphy",650.69,443.52
+717,Home,Decor,Michael and Sons,538.35,400.11
+718,Electronics,Mobile,Ashley-Ramirez,1925.73,1375.5
+719,Electronics,Laptop,"Rogers, Nichols and Woods",1734.76,781.95
+720,Clothing,Men,Hicks-Chan,296.76,156.94
+721,Clothing,Kids,Farley-Parker,788.44,360.21
+722,Home,Decor,Ortega Inc,831.38,482.86
+723,Electronics,Laptop,Kennedy-Davis,1033.65,528.5
+724,Home,Kitchen,"Stevens, Scott and Rodriguez",1900.76,1009.14
+725,Electronics,Camera,Guerrero Group,190.82,150.53
+726,Home,Furniture,Romero and Sons,1592.38,890.28
+727,Books,Fiction,"Brown, Hernandez and Taylor",991.96,524.89
+728,Home,Kitchen,"Ellis, Dixon and Young",1096.88,496.05
+729,Books,Non-Fiction,"Garner, Frey and Campbell",1788.84,1260.96
+730,Electronics,Mobile,Mullins Group,1254.23,921.46
+731,Electronics,Mobile,Brown-Anderson,1859.22,861.18
+732,Books,Fiction,"Reese, Green and Barnett",1983.72,1132.94
+733,Clothing,Kids,Lucero Group,607.22,455.27
+734,Home,Furniture,"Miller, Sanchez and Warner",1310.9,655.65
+735,Home,Decor,Kent-Anderson,1808.08,842.95
+736,Books,Comics,"Holloway, Schmidt and Lopez",614.49,417.72
+737,Clothing,Women,Jackson PLC,1312.69,894.57
+738,Electronics,Mobile,Johnson PLC,956.23,433.25
+739,Clothing,Kids,"Carson, Caldwell and Pratt",1361.57,549.69
+740,Home,Furniture,Meza-Prince,1976.37,1124.41
+741,Clothing,Women,Parker Ltd,146.3,80.94
+742,Electronics,Mobile,Collins-Vargas,630.14,474.11
+743,Clothing,Women,Smith Ltd,1548.05,1085.59
+744,Clothing,Kids,Wilson-Mills,1985.92,907.85
+745,Toys,Board,Anderson-Wright,21.91,14.46
+746,Books,Non-Fiction,"Lee, Norris and Smith",1446.25,941.84
+747,Clothing,Women,"White, Mejia and Erickson",1234.07,712.0
+748,Clothing,Men,Sparks Ltd,1793.7,817.94
+749,Electronics,Camera,Johnson-Herrera,1461.37,790.04
+750,Books,Non-Fiction,"Saunders, Conway and Hicks",1583.2,790.2
+751,Electronics,Mobile,Carter Group,1109.03,709.78
+752,Toys,Educational,"Mcdonald, Patton and Ochoa",1559.04,1054.21
+753,Home,Furniture,Church-Johnson,1037.91,626.7
+754,Books,Non-Fiction,Nolan-Mathews,1294.11,923.37
+755,Clothing,Women,Mcknight-Banks,774.84,384.66
+756,Toys,Action,Hayes Ltd,1058.93,837.7
+757,Home,Kitchen,"Mccall, Jimenez and Jones",268.31,199.71
+758,Toys,Educational,"Osborne, Acevedo and Cruz",734.0,494.11
+759,Books,Fiction,"Bryant, Fischer and Gibbs",38.3,16.35
+760,Home,Furniture,Gray PLC,84.45,35.82
+761,Books,Comics,"Choi, Hays and Salinas",576.54,394.96
+762,Books,Non-Fiction,Thompson and Sons,1405.11,608.37
+763,Toys,Board,Parker Inc,1234.01,630.56
+764,Home,Furniture,Butler-Jefferson,1025.05,493.34
+765,Clothing,Kids,"Moore, Solomon and Kemp",656.87,416.83
+766,Electronics,Laptop,Jones-Rojas,1398.86,967.99
+767,Clothing,Men,"Shields, Perry and Martinez",492.74,379.34
+768,Electronics,Laptop,Myers-Thomas,1226.53,517.61
+769,Clothing,Men,Gross-Higgins,30.27,13.77
+770,Electronics,Mobile,"Franco, Mendoza and Larson",995.34,536.17
+771,Toys,Board,Smith Ltd,522.2,286.56
+772,Home,Decor,Barr and Sons,1773.4,1256.58
+773,Electronics,Laptop,Pena and Sons,1615.18,821.79
+774,Electronics,Laptop,Osborne and Sons,1426.08,899.37
+775,Electronics,Laptop,Spencer Ltd,913.12,496.78
+776,Books,Comics,Allen-Hess,337.93,156.44
+777,Electronics,Camera,"Foster, Shea and Marshall",1349.87,602.22
+778,Toys,Action,Sutton-Torres,92.86,69.2
+779,Clothing,Men,Young-Sanders,946.17,523.41
+780,Clothing,Men,Mitchell Group,1862.66,1383.95
+781,Toys,Board,Kelly PLC,1482.63,841.76
+782,Home,Furniture,Fisher Group,835.43,574.87
+783,Home,Furniture,"Tran, Foster and Dean",1145.21,512.78
+784,Electronics,Mobile,Manning and Sons,450.25,272.99
+785,Electronics,Laptop,Thornton-Rogers,142.51,83.52
+786,Home,Kitchen,Franklin-Gardner,657.97,408.76
+787,Electronics,Laptop,"Kirk, Mosley and Fitzgerald",405.34,253.55
+788,Home,Decor,"Mcclain, Adkins and Bell",1247.32,730.39
+789,Toys,Educational,Grant Ltd,1995.59,1417.58
+790,Toys,Action,Ramos-Luna,305.38,236.05
+791,Electronics,Mobile,Hensley-Anderson,1085.38,710.25
+792,Electronics,Laptop,"Salazar, Jones and Ross",7.92,5.25
+793,Home,Furniture,"Soto, Huang and Berry",414.36,328.69
+794,Books,Non-Fiction,Jackson Inc,1922.56,1516.95
+795,Clothing,Kids,"Lee, Johnson and Rose",563.25,235.19
+796,Clothing,Kids,Shepherd Inc,829.05,628.61
+797,Books,Comics,Washington-Bennett,174.38,76.42
+798,Clothing,Kids,"Lawson, Smith and Austin",1640.83,705.45
+799,Toys,Action,Frank and Sons,872.79,685.74
+800,Clothing,Women,Sanford-Moon,525.68,276.51
+801,Books,Comics,Wise and Sons,1664.64,883.09
+802,Books,Non-Fiction,Stein Group,471.05,366.2
+803,Clothing,Kids,"Duffy, Riley and King",222.4,98.36
+804,Books,Non-Fiction,Young-Spencer,631.5,283.1
+805,Home,Furniture,Rivera PLC,906.57,530.65
+806,Electronics,Mobile,Wilkinson PLC,319.44,215.44
+807,Toys,Action,Ramos-Frazier,433.97,322.28
+808,Clothing,Men,"Thompson, Moon and Frazier",1423.76,1121.01
+809,Books,Comics,Norton-Adams,102.66,53.34
+810,Clothing,Men,"Joseph, Gray and Turner",1904.43,1412.78
+811,Toys,Board,Weber-Sullivan,1102.49,482.77
+812,Electronics,Mobile,Fritz Inc,247.3,105.02
+813,Clothing,Men,"Martinez, Baxter and Thomas",400.28,224.25
+814,Electronics,Camera,Franco LLC,1174.31,900.66
+815,Electronics,Mobile,"Carlson, Garcia and Wood",1994.34,955.49
+816,Books,Fiction,"Aguilar, Camacho and Zuniga",188.5,139.28
+817,Home,Furniture,"Finley, Fisher and Tate",90.18,52.7
+818,Clothing,Kids,Briggs-Lindsey,869.15,599.52
+819,Books,Fiction,"Harris, Reed and Acosta",768.55,438.59
+820,Home,Furniture,Davis-Lambert,1817.07,926.69
+821,Books,Fiction,Roberts PLC,74.13,48.01
+822,Clothing,Kids,Costa Inc,593.73,335.34
+823,Toys,Educational,Duffy LLC,126.65,64.83
+824,Clothing,Women,Roberts LLC,402.92,303.75
+825,Toys,Action,Rodriguez-Morton,1263.36,910.71
+826,Electronics,Laptop,Rowland-Aguilar,1564.92,850.76
+827,Toys,Educational,Delacruz-Ramirez,691.35,432.97
+828,Home,Kitchen,Dalton-Shaw,544.52,223.48
+829,Toys,Action,"Tran, Rhodes and Harper",63.46,45.96
+830,Home,Furniture,Martinez-Lopez,1618.26,952.63
+831,Home,Decor,Mosley-Clark,1999.21,1578.56
+832,Electronics,Mobile,"Harris, Hall and Wise",1315.44,666.42
+833,Electronics,Mobile,Bennett Inc,1153.51,914.81
+834,Books,Non-Fiction,Williams and Sons,1870.74,1490.26
+835,Clothing,Men,Chang-Perez,476.92,251.43
+836,Home,Decor,Hatfield-Serrano,61.27,41.68
+837,Toys,Board,"Brown, Walker and Rodriguez",288.49,224.83
+838,Books,Comics,Richardson Inc,621.56,370.56
+839,Electronics,Mobile,Grant Ltd,469.08,228.69
+840,Toys,Educational,Cohen and Sons,6.36,4.88
+841,Clothing,Men,Harris-Rivera,684.81,322.53
+842,Home,Furniture,Diaz-Henson,48.72,30.92
+843,Clothing,Men,Avery and Sons,1693.73,1260.59
+844,Electronics,Laptop,Yang-Bean,1410.55,937.81
+845,Toys,Action,Hughes and Sons,676.44,357.86
+846,Clothing,Kids,Thompson Group,1897.64,1360.11
+847,Books,Comics,Molina-Johnson,637.98,435.66
+848,Toys,Board,Campbell-Allen,1779.75,1148.8
+849,Home,Furniture,"Irwin, Davis and Wolf",1332.74,967.28
+850,Books,Non-Fiction,Leach Ltd,1469.32,760.82
+851,Clothing,Kids,Kennedy LLC,8.59,5.85
+852,Toys,Educational,Moore Group,1702.26,1205.77
+853,Toys,Action,"Holmes, Young and Mendoza",368.25,194.17
+854,Toys,Action,Young-Holloway,1281.1,565.79
+855,Books,Fiction,Davis Inc,665.68,286.99
+856,Home,Kitchen,Watts Group,339.94,256.36
+857,Electronics,Camera,"Ashley, Nicholson and Ramos",1341.7,928.07
+858,Home,Kitchen,Gonzalez-Kelly,27.73,13.42
+859,Electronics,Laptop,Gilbert-Hartman,517.03,229.15
+860,Electronics,Mobile,Atkins-Cruz,774.94,537.06
+861,Clothing,Women,Lee-Smith,988.7,545.25
+862,Toys,Educational,Sandoval Inc,207.35,122.71
+863,Toys,Board,"Johnston, West and Brown",1517.7,744.03
+864,Books,Fiction,"Thompson, Garcia and Moreno",1599.39,661.13
+865,Electronics,Laptop,Hicks PLC,525.95,232.41
+866,Home,Furniture,Rivera LLC,1776.42,824.9
+867,Electronics,Camera,Mercado-Phillips,1883.96,1490.62
+868,Home,Decor,Valdez-Wood,1970.63,1492.34
+869,Electronics,Laptop,Johnson Group,1885.17,878.49
+870,Books,Fiction,"Guzman, Trujillo and Mclean",111.84,59.55
+871,Clothing,Women,Nguyen-Adams,1395.91,961.52
+872,Toys,Educational,"Brown, Mayo and Murphy",1322.89,686.53
+873,Electronics,Mobile,Dean PLC,788.84,488.97
+874,Books,Fiction,Lopez-Jones,113.74,45.67
+875,Electronics,Laptop,"George, Mckenzie and Mack",1648.68,1071.7
+876,Books,Fiction,"Archer, Bates and Alexander",198.49,95.83
+877,Home,Furniture,Humphrey Ltd,949.77,423.79
+878,Books,Non-Fiction,Peterson LLC,980.75,651.63
+879,Electronics,Camera,Smith LLC,1090.53,516.86
+880,Books,Non-Fiction,"Johnson, Howard and Wiley",377.23,157.62
+881,Books,Non-Fiction,"Smith, Whitehead and Stephens",530.48,389.81
+882,Toys,Action,"Santos, Haynes and Davis",306.51,207.99
+883,Electronics,Mobile,"Miller, Herrera and Waller",1337.94,967.69
+884,Books,Comics,"Harvey, Miller and Webb",458.89,194.75
+885,Books,Comics,Cummings Inc,840.17,516.04
+886,Books,Comics,Carr Ltd,1763.9,1041.59
+887,Electronics,Laptop,Wallace-Brooks,1806.04,1238.44
+888,Toys,Board,Hill-Gross,1801.41,1297.34
+889,Toys,Action,Gallagher-Hammond,244.96,172.18
+890,Clothing,Men,Turner-Smith,1944.47,1406.6
+891,Clothing,Men,Ford-Simon,849.63,675.72
+892,Books,Fiction,Jones Ltd,1994.55,1298.23
+893,Toys,Educational,Carter-Simmons,642.9,444.14
+894,Electronics,Mobile,Clark and Sons,779.26,435.56
+895,Home,Kitchen,"Hahn, Cruz and Craig",1041.78,798.9
+896,Electronics,Camera,"Vega, Olson and Martin",1248.0,760.06
+897,Books,Fiction,Wallace Ltd,831.81,382.03
+898,Toys,Board,Brown Group,1517.96,1177.72
+899,Electronics,Camera,"Simpson, Santos and Adams",1560.19,1114.44
+900,Toys,Educational,"Stephens, Graham and Williams",1756.4,888.13
+901,Books,Comics,"Brady, Jones and Graves",1219.88,506.23
+902,Home,Kitchen,"Mahoney, Mendoza and Graves",291.99,187.88
+903,Books,Fiction,"Miller, Miller and Gilmore",794.61,597.22
+904,Clothing,Men,French Group,1492.77,1146.95
+905,Home,Furniture,Gray-Perkins,679.04,487.18
+906,Home,Kitchen,Torres Ltd,1686.48,1253.55
+907,Electronics,Mobile,Carrillo and Sons,273.1,215.66
+908,Books,Non-Fiction,Herman Group,542.49,307.43
+909,Electronics,Mobile,"Martinez, Lee and Flynn",886.22,678.29
+910,Books,Comics,Cummings-Ryan,971.5,589.31
+911,Home,Furniture,Carpenter PLC,1032.96,478.87
+912,Home,Decor,Phillips-Tran,1016.06,461.56
+913,Toys,Board,Berg-Hogan,62.75,29.94
+914,Clothing,Men,Taylor-Holt,502.73,292.88
+915,Home,Decor,Russell LLC,402.22,220.15
+916,Books,Comics,Martinez-David,796.9,613.0
+917,Electronics,Mobile,"Mccarthy, Willis and Houston",748.07,476.98
+918,Clothing,Women,Mcintosh-Washington,1175.83,634.84
+919,Clothing,Women,Perez PLC,1499.18,1012.76
+920,Home,Furniture,Sanchez LLC,776.2,361.06
+921,Toys,Action,Gonzales-Johnson,1714.94,1130.06
+922,Clothing,Women,Johnson Ltd,1304.92,789.88
+923,Electronics,Laptop,Chapman-Johnson,1823.47,1201.57
+924,Toys,Action,Bates Inc,451.42,290.42
+925,Home,Decor,Eaton-Simmons,1934.21,1270.96
+926,Books,Non-Fiction,Mitchell Group,1703.91,994.4
+927,Clothing,Women,Perez LLC,607.78,369.69
+928,Toys,Educational,Thompson PLC,1171.05,471.86
+929,Home,Decor,Gutierrez-Mckenzie,1296.45,834.42
+930,Home,Decor,Evans-Ray,220.67,93.9
+931,Home,Decor,Adams LLC,653.65,333.85
+932,Home,Furniture,Bishop and Sons,304.11,214.76
+933,Electronics,Camera,White Group,811.18,428.17
+934,Clothing,Kids,Young PLC,55.78,33.41
+935,Home,Kitchen,Manning-Ruiz,1814.29,1019.34
+936,Electronics,Camera,Hall Inc,1417.6,891.41
+937,Clothing,Women,Yang Group,1454.47,711.16
+938,Toys,Board,"Holt, Wilson and Martinez",1570.87,1197.96
+939,Home,Decor,Juarez Ltd,603.89,282.62
+940,Toys,Action,Foster-Miller,591.1,347.75
+941,Home,Decor,Benson and Sons,1617.65,1140.71
+942,Clothing,Kids,Torres-Lewis,1799.68,1190.98
+943,Clothing,Women,Parrish and Sons,450.54,337.26
+944,Books,Non-Fiction,Frederick-Zhang,746.51,473.46
+945,Books,Fiction,Brown-Mayo,943.72,704.54
+946,Toys,Board,Kerr-Hoffman,1888.88,809.36
+947,Clothing,Kids,Lewis Ltd,244.03,164.06
+948,Toys,Educational,"Robbins, Gray and Best",829.15,620.49
+949,Clothing,Men,Powell-Wheeler,1984.73,1065.93
+950,Toys,Educational,Watson Ltd,290.73,216.58
+951,Clothing,Men,Byrd-Crawford,977.72,637.88
+952,Clothing,Women,Pittman Group,1270.83,510.73
+953,Home,Furniture,"Guerrero, Avila and Richards",1523.58,712.19
+954,Clothing,Women,Patterson-Shelton,1571.5,1118.75
+955,Clothing,Kids,Peck Ltd,870.25,497.58
+956,Books,Non-Fiction,"Miller, Day and Jimenez",769.72,319.5
+957,Clothing,Kids,Chen-Brown,749.34,303.96
+958,Home,Decor,Clark LLC,385.2,258.35
+959,Clothing,Men,"Cunningham, Bates and Cook",1388.58,746.69
+960,Clothing,Men,Sweeney-Goodwin,770.18,489.42
+961,Clothing,Men,Ramsey-Meyers,1648.57,856.07
+962,Home,Kitchen,Munoz LLC,1457.02,930.38
+963,Home,Kitchen,George-Johnson,1776.51,1417.99
+964,Home,Kitchen,Kennedy and Sons,721.71,343.08
+965,Books,Fiction,Hancock Ltd,460.69,318.28
+966,Clothing,Men,"Adkins, Olsen and Graves",1469.48,934.41
+967,Clothing,Men,"Johnson, Collins and Austin",736.35,486.15
+968,Electronics,Laptop,Quinn PLC,1753.71,880.92
+969,Toys,Board,Davis and Sons,101.93,81.33
+970,Electronics,Camera,"Richards, West and Copeland",1673.06,701.5
+971,Electronics,Laptop,Moreno-Brooks,891.41,400.63
+972,Home,Kitchen,"Reynolds, Ramirez and Page",1405.23,677.6
+973,Electronics,Laptop,Martinez-Ellis,844.64,371.97
+974,Toys,Educational,"Zavala, Bowers and Stewart",1247.48,848.65
+975,Books,Fiction,Rodriguez-Jennings,1025.61,663.65
+976,Home,Furniture,"Huang, Potter and Lang",1570.6,940.94
+977,Toys,Action,Jones Group,1557.03,1140.68
+978,Clothing,Women,Meyer Ltd,1408.36,729.73
+979,Electronics,Camera,Gonzales-Olson,995.23,480.77
+980,Books,Non-Fiction,"Clements, Schroeder and Ramirez",472.84,191.55
+981,Electronics,Mobile,Thomas Group,1671.29,1115.77
+982,Clothing,Men,Hernandez Group,1560.15,670.89
+983,Electronics,Laptop,"Harper, Hamilton and Fox",1290.45,751.95
+984,Home,Kitchen,"Walter, Nelson and Tran",931.23,409.67
+985,Clothing,Men,"Nguyen, Hinton and Arroyo",1705.24,927.8
+986,Home,Kitchen,"Rodriguez, Parker and Bryant",1478.39,647.53
+987,Electronics,Mobile,"Mcconnell, Huang and Christian",1704.74,1134.24
+988,Clothing,Women,Shaffer-Smith,718.27,413.07
+989,Toys,Educational,Johnson and Sons,1757.56,768.37
+990,Home,Furniture,Weber-Dennis,232.09,129.99
+991,Books,Non-Fiction,Jackson-Wallace,1672.24,1130.37
+992,Books,Non-Fiction,Tapia-Lutz,1299.45,934.0
+993,Electronics,Mobile,Bates-Johns,1393.86,590.24
+994,Clothing,Men,"Arellano, Martinez and Miller",834.98,531.3
+995,Toys,Board,"Brown, Patel and Wilson",879.13,566.63
+996,Home,Decor,"Wallace, Barker and Harris",62.49,42.1
+997,Clothing,Women,Ramos Inc,1841.19,819.65
+998,Books,Non-Fiction,"Glass, Huber and Taylor",96.71,48.8
+999,Home,Furniture,Ford-Mayo,1410.61,946.76
+1000,Toys,Board,"Lee, Lane and George",1132.2,895.75
+1001,Home,Decor,Johnson-Smith,1048.59,713.28
+1002,Electronics,Laptop,Mercado-Harvey,1325.12,661.81
+1003,Home,Decor,"Patton, Myers and Miller",1354.21,750.17
+1004,Toys,Board,"Wolf, Garrett and Branch",113.86,74.85
+1005,Clothing,Kids,Davis-Phillips,1698.45,1258.12
+1006,Clothing,Men,Brewer-Hughes,1504.1,794.55
+1007,Home,Kitchen,Hughes PLC,105.45,51.57
+1008,Books,Non-Fiction,"Russell, Ferguson and Woodward",1635.12,705.61
+1009,Books,Comics,Ellis-Johnson,898.96,667.6
+1010,Books,Non-Fiction,Simmons Group,241.82,144.84
+1011,Electronics,Mobile,Elliott and Sons,809.86,335.55
+1012,Toys,Action,Carson Inc,1652.69,1184.5
+1013,Toys,Board,Small-Miller,612.67,369.65
+1014,Clothing,Kids,Garcia-Newman,1344.59,1048.97
+1015,Home,Furniture,Owens-Garrison,1634.09,1205.51
+1016,Home,Decor,Moore-Adams,1536.0,983.01
+1017,Home,Decor,Dominguez-Mccormick,907.8,398.5
+1018,Clothing,Men,Nguyen LLC,686.01,502.13
+1019,Home,Decor,"Harper, Mitchell and Bell",1046.36,712.4
+1020,Electronics,Mobile,"Prince, Holt and Adams",987.38,719.54
+1021,Books,Fiction,"Black, Swanson and Barron",512.31,245.07
+1022,Electronics,Laptop,Smith-Jones,435.1,317.55
+1023,Clothing,Kids,"Cole, Anderson and Eaton",679.18,477.37
+1024,Electronics,Camera,Mullen and Sons,1675.75,1064.98
+1025,Books,Non-Fiction,Smith Group,1318.62,1031.79
+1026,Clothing,Women,"Combs, Jones and Barnes",13.65,9.48
+1027,Toys,Educational,Bailey-Ward,1678.44,995.6
+1028,Toys,Action,Vasquez-Evans,1385.18,650.29
+1029,Clothing,Men,Bruce Inc,777.87,498.01
+1030,Home,Decor,"Moon, Guzman and Parker",1763.37,1000.65
+1031,Toys,Board,Green-Diaz,1525.94,777.37
+1032,Home,Kitchen,Johnson-House,908.43,411.84
+1033,Books,Comics,Smith-Flores,1401.53,980.19
+1034,Home,Decor,Perez and Sons,1097.87,577.0
+1035,Toys,Board,Torres-Cochran,438.6,212.23
+1036,Home,Decor,Davenport and Sons,693.86,464.16
+1037,Clothing,Kids,"Webb, Boyd and Simon",1087.27,711.89
+1038,Electronics,Laptop,Rice-Lyons,1126.75,713.37
+1039,Books,Comics,Kemp-Perez,1497.0,1102.62
+1040,Home,Kitchen,Maldonado Ltd,1617.57,985.25
+1041,Electronics,Laptop,Cooper LLC,294.93,197.04
+1042,Clothing,Women,Wilson Ltd,1501.62,697.31
+1043,Home,Decor,Garcia-Hall,504.87,371.46
+1044,Home,Furniture,Myers Group,1508.42,622.86
+1045,Books,Fiction,Foster-Palmer,1234.14,827.13
+1046,Toys,Action,Gibson Inc,1486.11,928.09
+1047,Clothing,Kids,Huerta-Carroll,1569.69,1129.44
+1048,Home,Decor,Miles LLC,1330.66,1025.4
+1049,Books,Non-Fiction,Barrett Group,1913.62,1512.39
+1050,Home,Decor,Bowers-Sanchez,112.34,78.35
+1051,Clothing,Kids,"Brown, Watts and Watkins",1738.36,1293.65
+1052,Books,Fiction,Johnson and Sons,1823.42,1243.3
+1053,Home,Decor,"Zimmerman, Moyer and Burke",1095.5,702.6
+1054,Clothing,Women,"Moore, Collins and Stein",900.39,714.35
+1055,Electronics,Mobile,Walker and Sons,1925.14,1336.11
+1056,Electronics,Laptop,Morrison-Brown,86.07,44.04
+1057,Home,Furniture,"Guerrero, Jackson and Parrish",326.05,240.76
+1058,Electronics,Laptop,"Singleton, Little and Lozano",935.33,724.88
+1059,Electronics,Mobile,Gibson-Reeves,1857.61,1186.55
+1060,Toys,Board,Ellison PLC,605.8,433.73
+1061,Toys,Educational,"Smith, Schwartz and Johnson",150.4,102.73
+1062,Toys,Action,Mayo Inc,1914.19,1164.29
+1063,Toys,Action,Maddox-Flowers,834.78,513.23
+1064,Electronics,Laptop,"Martinez, Allen and Morris",446.29,216.6
+1065,Home,Kitchen,Robinson-Dunn,724.79,353.25
+1066,Toys,Board,"Warner, Casey and Stanton",952.34,594.77
+1067,Electronics,Mobile,Randall LLC,1339.53,774.61
+1068,Toys,Board,"Brown, James and Owens",491.44,204.41
+1069,Home,Kitchen,"Caldwell, Carpenter and Jordan",1832.29,1425.51
+1070,Books,Non-Fiction,"Wang, Walsh and Williams",1082.77,555.6
+1071,Toys,Educational,"Merritt, Bailey and Hudson",1031.05,622.23
+1072,Books,Fiction,"Fields, Burns and Carter",596.39,393.98
+1073,Home,Decor,Huff-Simpson,169.28,74.21
+1074,Toys,Board,Castillo Ltd,19.62,8.36
+1075,Clothing,Kids,Hill-Marquez,851.3,375.91
+1076,Toys,Board,"West, Martinez and Hull",1757.88,1224.45
+1077,Books,Comics,Fitzgerald-Newman,1634.42,700.92
+1078,Clothing,Men,Lara PLC,921.15,490.68
+1079,Electronics,Mobile,Allen Ltd,113.26,81.29
+1080,Toys,Action,"Davidson, Cantrell and Bonilla",1152.05,565.72
+1081,Home,Kitchen,Smith Ltd,779.13,508.06
+1082,Books,Non-Fiction,Salazar-Thomas,38.7,25.9
+1083,Toys,Action,Green-Castillo,1284.64,831.6
+1084,Toys,Action,"Warren, Hurley and Simpson",1403.26,602.05
+1085,Toys,Action,"Ward, Hopkins and Stewart",583.22,393.3
+1086,Toys,Action,Burns-Tucker,566.63,436.69
+1087,Books,Non-Fiction,Fisher Group,1645.13,678.33
+1088,Clothing,Kids,"Myers, Smith and Russell",443.63,309.96
+1089,Toys,Educational,"Fields, Higgins and Ball",1920.47,878.87
+1090,Home,Furniture,"Ward, Williams and Thompson",1109.28,690.0
+1091,Electronics,Mobile,Bailey-Wilson,15.03,9.6
+1092,Toys,Board,"Doyle, Thomas and Edwards",1894.22,988.55
+1093,Home,Furniture,Dyer-Garcia,828.25,545.3
+1094,Toys,Action,"Jacobs, Miranda and Lopez",326.1,159.24
+1095,Home,Furniture,Chaney-Mcmillan,233.67,156.18
+1096,Toys,Action,Williams LLC,1703.52,1316.73
+1097,Toys,Educational,Sexton LLC,1291.13,554.23
+1098,Electronics,Laptop,"York, Delgado and Hernandez",200.91,138.68
+1099,Books,Non-Fiction,Miller-Hall,717.49,479.66
+1100,Clothing,Men,Brooks Ltd,573.85,245.56
+1101,Clothing,Women,Long Inc,974.29,517.68
+1102,Home,Decor,"Palmer, Robertson and Jackson",1170.42,732.94
+1103,Home,Kitchen,Pope Inc,1917.52,896.36
+1104,Home,Furniture,"Chang, Garcia and Parks",1572.39,1076.9
+1105,Books,Non-Fiction,Flores-Deleon,1681.02,762.72
+1106,Home,Kitchen,Miller and Sons,928.38,504.57
+1107,Home,Kitchen,Jordan-Wright,1105.59,519.97
+1108,Toys,Action,Perkins PLC,1684.38,1252.31
+1109,Clothing,Kids,Salazar LLC,396.88,275.2
+1110,Electronics,Camera,Jackson Ltd,155.42,63.33
+1111,Toys,Board,Reed Inc,67.23,42.54
+1112,Books,Comics,Berry Ltd,429.46,178.08
+1113,Home,Decor,"Terry, Ballard and Mcpherson",1788.5,1101.49
+1114,Clothing,Women,"Richardson, Shepard and Johnson",788.03,596.2
+1115,Toys,Board,Alexander Group,1715.04,777.86
+1116,Toys,Board,"Moody, Howell and Mclean",185.66,101.29
+1117,Electronics,Camera,Garcia Ltd,481.57,378.32
+1118,Toys,Board,Castillo PLC,335.86,203.42
+1119,Books,Fiction,"Mcbride, Blankenship and Fowler",362.39,282.48
+1120,Clothing,Kids,Rivas PLC,1465.35,1136.63
+1121,Electronics,Mobile,"Thompson, Perez and Smith",1524.14,750.94
+1122,Home,Kitchen,"Hardin, Wagner and Hamilton",471.87,314.94
+1123,Toys,Educational,Whitehead and Sons,779.25,597.81
+1124,Electronics,Mobile,Cox-Green,1961.28,1038.75
+1125,Toys,Board,"Smith, Farmer and Gonzalez",1660.15,1218.47
+1126,Home,Decor,Butler-Short,1090.98,512.26
+1127,Books,Non-Fiction,Wood-Hill,1177.42,894.0
+1128,Electronics,Camera,Andersen-Jones,506.91,399.99
+1129,Clothing,Kids,"Cabrera, Brooks and Cook",814.66,592.17
+1130,Home,Kitchen,Mason and Sons,1586.35,1197.49
+1131,Electronics,Camera,Stone PLC,1764.66,1016.37
+1132,Clothing,Men,Hunt Inc,1031.51,528.47
+1133,Clothing,Men,"Johnson, Rosales and Miller",318.93,204.37
+1134,Electronics,Camera,Ruiz-Mcdonald,464.54,336.54
+1135,Electronics,Laptop,Lucas-Williams,1352.08,799.9
+1136,Toys,Action,Todd LLC,1296.28,731.57
+1137,Clothing,Men,"Ford, Foster and Perez",260.13,165.69
+1138,Clothing,Kids,"Miller, Gibson and Williams",1027.72,777.28
+1139,Clothing,Men,"Hill, Moss and Miller",336.85,259.03
+1140,Toys,Educational,Moore Ltd,1200.72,750.98
+1141,Electronics,Camera,Williams-Murphy,1457.31,1061.68
+1142,Electronics,Mobile,Petty and Sons,901.16,718.32
+1143,Books,Fiction,Young Ltd,442.63,249.78
+1144,Clothing,Kids,Dennis Group,1641.8,776.17
+1145,Toys,Educational,Johnson Ltd,339.6,228.97
+1146,Books,Comics,Burch PLC,1183.24,582.07
+1147,Books,Fiction,Garcia-Sanchez,221.6,106.58
+1148,Toys,Board,"Thornton, Banks and Smith",842.49,387.4
+1149,Electronics,Mobile,"Mcfarland, Coleman and Jordan",954.36,616.42
+1150,Electronics,Camera,Johnson-Walker,1009.14,451.09
+1151,Books,Comics,Gonzalez and Sons,265.01,169.97
+1152,Electronics,Camera,Webb-Smith,1300.22,791.6
+1153,Home,Furniture,Hendrix-Hood,1396.8,798.39
+1154,Books,Non-Fiction,Mendez Group,704.28,508.38
+1155,Toys,Action,"Rollins, Sparks and Rivera",853.85,428.47
+1156,Clothing,Men,"Turner, Morrison and Phillips",570.12,427.99
+1157,Books,Non-Fiction,"Wong, Hart and Flores",382.1,261.23
+1158,Electronics,Camera,"Ho, Thomas and Henderson",1047.47,636.76
+1159,Books,Comics,Ayala-Carpenter,414.81,299.37
+1160,Books,Non-Fiction,"Scott, Webb and Frazier",217.63,124.14
+1161,Toys,Educational,Davila-Guzman,526.3,323.38
+1162,Toys,Educational,Boyd Group,1225.7,976.54
+1163,Books,Fiction,Valenzuela and Sons,829.39,591.78
+1164,Books,Fiction,Williams PLC,743.57,462.47
+1165,Home,Kitchen,Jones-Anderson,1157.41,821.39
+1166,Books,Comics,Brown-Mayo,280.45,209.08
+1167,Electronics,Camera,Hoover-Hopkins,463.39,330.51
+1168,Clothing,Men,Miller Ltd,432.84,242.49
+1169,Home,Decor,Robertson and Sons,1229.98,828.79
+1170,Electronics,Mobile,Riddle PLC,781.26,511.22
+1171,Electronics,Mobile,May-Fisher,945.98,605.52
+1172,Electronics,Mobile,Carlson-Johnson,529.87,290.55
+1173,Toys,Action,Strong and Sons,1450.37,1120.08
+1174,Books,Comics,Price and Sons,1314.07,676.2
+1175,Toys,Action,"Wiggins, Bailey and Richmond",1891.7,1377.33
+1176,Books,Non-Fiction,Brown-Mcguire,26.37,19.52
+1177,Toys,Educational,Hernandez-Hansen,393.52,280.81
+1178,Toys,Board,Perry-Pena,1398.41,903.48
+1179,Electronics,Laptop,Jackson-Wells,482.32,192.98
+1180,Clothing,Men,"Holden, Sims and Taylor",1993.65,1419.22
+1181,Home,Decor,Sanchez PLC,793.31,503.3
+1182,Toys,Action,Maldonado-Morgan,1475.17,630.56
+1183,Electronics,Camera,Fisher-Hodge,572.57,419.07
+1184,Toys,Educational,Stout-Huff,698.21,507.04
+1185,Clothing,Kids,Adams-Walker,1926.3,1120.92
+1186,Books,Comics,Maldonado-Steele,14.28,6.71
+1187,Toys,Action,Jones PLC,1119.47,673.1
+1188,Home,Furniture,"Hunter, Jackson and Johnson",1606.87,1257.67
+1189,Toys,Board,"Morgan, Kennedy and Jones",504.03,290.88
+1190,Books,Comics,Holden-Medina,969.84,482.31
+1191,Home,Kitchen,"Roberson, Walters and Hill",1364.78,1035.34
+1192,Electronics,Laptop,Cooley-Rogers,236.96,101.19
+1193,Clothing,Kids,Reeves Ltd,1403.85,1010.86
+1194,Books,Non-Fiction,"Thomas, Parks and Hunter",1035.43,418.2
+1195,Home,Furniture,Robinson-Cunningham,578.14,323.51
+1196,Home,Furniture,"Keith, Miller and Brown",1111.33,523.87
+1197,Home,Kitchen,Davidson Ltd,441.04,277.63
+1198,Clothing,Kids,Santana LLC,1367.8,1044.96
+1199,Books,Comics,Madden-Snyder,403.33,279.98
+1200,Home,Furniture,Wong-Wright,462.27,339.3
+1201,Toys,Educational,Garcia Ltd,316.21,139.98
+1202,Electronics,Camera,Austin Group,1911.78,1141.46
+1203,Electronics,Camera,"Fletcher, Alexander and Sanchez",1916.2,1416.46
+1204,Home,Decor,Lee-Johns,634.26,481.56
+1205,Toys,Educational,Price Inc,984.16,781.18
+1206,Toys,Educational,Doyle-Nguyen,798.77,559.19
+1207,Clothing,Men,Wilson and Sons,1053.84,599.92
+1208,Toys,Action,Willis LLC,1007.44,561.63
+1209,Clothing,Women,"Ho, Cordova and Thompson",1953.13,1326.76
+1210,Books,Non-Fiction,Miller Inc,1379.98,558.52
+1211,Clothing,Women,Carr-Johnson,1164.11,617.18
+1212,Toys,Educational,Wilson Inc,378.37,191.13
+1213,Home,Kitchen,"Wilson, Garcia and Long",1917.26,1030.03
+1214,Clothing,Women,"Tucker, Mitchell and White",850.77,482.93
+1215,Home,Kitchen,"Fowler, Robinson and Bridges",1709.38,874.95
+1216,Clothing,Kids,Taylor Ltd,266.62,168.07
+1217,Clothing,Men,"Rivera, Goodman and Sutton",1443.03,1041.34
+1218,Toys,Educational,"Anderson, Zuniga and Moore",1713.34,819.71
+1219,Clothing,Women,Parker-Nguyen,1612.31,758.82
+1220,Books,Fiction,"Dixon, Leon and Hunter",1991.15,1472.97
+1221,Toys,Board,Grimes-Baker,1442.52,1030.15
+1222,Home,Kitchen,White-Brown,1126.47,706.45
+1223,Books,Fiction,Newman and Sons,1382.63,586.26
+1224,Home,Kitchen,Black-Parrish,1678.75,736.17
+1225,Home,Kitchen,Barber and Sons,725.12,452.58
+1226,Home,Kitchen,"Tate, Hogan and Underwood",44.57,19.99
+1227,Toys,Action,"Davenport, Manning and Smith",1155.82,762.78
+1228,Toys,Action,"Mills, Miller and Duncan",1958.85,1006.54
+1229,Home,Decor,"Miller, Vincent and Long",1023.34,726.47
+1230,Books,Fiction,"Day, Ruiz and Howe",765.24,393.8
+1231,Clothing,Men,"Foster, Patterson and Perez",1282.96,989.71
+1232,Books,Comics,Martin-Mcdonald,1226.56,689.22
+1233,Electronics,Mobile,Blair-Strickland,328.19,161.24
+1234,Home,Decor,"Johnston, Kerr and Johnson",586.26,297.23
+1235,Books,Non-Fiction,"Garrett, Sherman and Shepard",1775.95,1265.17
+1236,Home,Decor,Trujillo-Newton,1175.9,924.5
+1237,Books,Fiction,White-Perry,371.85,152.18
+1238,Clothing,Kids,Walters-Parker,507.04,353.69
+1239,Electronics,Mobile,Mora and Sons,337.99,149.12
+1240,Electronics,Laptop,"Edwards, Goodman and Goodwin",1099.13,451.24
+1241,Books,Comics,Martinez Group,1531.17,663.46
+1242,Home,Decor,"Greene, Norris and Heath",314.77,208.36
+1243,Books,Non-Fiction,Miller PLC,462.57,321.5
+1244,Books,Comics,Wang and Sons,257.19,157.07
+1245,Clothing,Men,Walters-Johnston,75.13,40.78
+1246,Home,Kitchen,"Diaz, Davis and Wheeler",937.05,701.25
+1247,Home,Decor,Thomas and Sons,892.47,703.1
+1248,Toys,Action,Moore-Green,1183.71,689.65
+1249,Toys,Educational,Landry LLC,1049.3,688.14
+1250,Home,Kitchen,Rivera-Jones,965.9,474.11
+1251,Electronics,Laptop,"Cox, Matthews and Young",619.2,349.77
+1252,Clothing,Women,"Pruitt, Fernandez and Ramirez",26.06,15.88
+1253,Clothing,Women,Spears-Baldwin,577.09,354.36
+1254,Books,Non-Fiction,Smith-Carr,602.72,425.73
+1255,Home,Decor,"Hall, Wood and Willis",466.27,187.85
+1256,Home,Furniture,"Vargas, Graham and Whitehead",826.41,515.86
+1257,Books,Fiction,Bowers-Fuller,330.72,229.8
+1258,Books,Non-Fiction,Wilson-Manning,445.08,192.13
+1259,Clothing,Kids,Carter and Sons,1530.25,1169.08
+1260,Home,Kitchen,"Miller, Gillespie and Ayers",1298.67,795.8
+1261,Home,Kitchen,Gutierrez-Lowery,380.06,162.43
+1262,Clothing,Women,Brown PLC,225.16,131.07
+1263,Books,Non-Fiction,Owen-Jimenez,1402.44,836.97
+1264,Home,Furniture,Lutz-Lee,308.54,243.09
+1265,Electronics,Mobile,"Watson, Bowers and Yates",1944.8,997.38
+1266,Clothing,Kids,"Key, Lam and French",879.64,354.74
+1267,Electronics,Mobile,Bennett-Tucker,34.38,16.74
+1268,Books,Non-Fiction,"Mason, Martin and Buchanan",1572.52,942.5
+1269,Home,Kitchen,Jones Ltd,1395.38,575.87
+1270,Electronics,Mobile,Tate Group,116.8,82.96
+1271,Electronics,Camera,Gonzalez Group,942.94,449.67
+1272,Home,Kitchen,Peters PLC,1657.36,743.8
+1273,Clothing,Women,"Chapman, Clark and Smith",1543.59,890.94
+1274,Electronics,Mobile,"Nguyen, Hatfield and Castillo",924.37,654.82
+1275,Toys,Board,"Lynch, Tyler and Grant",1964.32,1157.24
+1276,Home,Kitchen,Payne LLC,321.43,222.2
+1277,Toys,Board,"Morales, Byrd and Espinoza",248.67,147.33
+1278,Home,Furniture,Francis Group,724.05,304.71
+1279,Clothing,Men,Smith LLC,475.75,272.92
+1280,Electronics,Mobile,Blanchard-Gallagher,1589.81,1007.75
+1281,Books,Fiction,"Nelson, Mitchell and Mitchell",22.82,9.51
+1282,Books,Comics,"Frederick, Simon and Reilly",1194.44,655.22
+1283,Electronics,Mobile,"Castillo, Maldonado and Williams",319.61,139.53
+1284,Toys,Educational,Martin Group,1862.04,1487.38
+1285,Electronics,Mobile,Pham-Ross,714.26,329.68
+1286,Toys,Action,Porter Inc,256.03,126.24
+1287,Toys,Board,Dawson-Conway,1514.61,1093.87
+1288,Books,Comics,"Wyatt, Russo and Santiago",389.97,263.5
+1289,Home,Decor,"Owens, Harris and Acevedo",273.79,207.93
+1290,Books,Comics,"Jefferson, Davis and Rosario",877.81,454.61
+1291,Books,Fiction,"Palmer, Murray and Guerrero",1135.57,701.16
+1292,Home,Decor,Andrade-Morris,939.45,701.83
+1293,Toys,Board,Nguyen-Sheppard,324.89,198.98
+1294,Books,Non-Fiction,Velez PLC,1639.74,1011.13
+1295,Books,Fiction,Chavez Ltd,1552.96,935.48
+1296,Clothing,Men,Trujillo-Schmitt,1241.37,677.33
+1297,Toys,Action,Phillips-Brady,644.78,274.25
+1298,Toys,Educational,Schmidt-Brooks,383.79,258.4
+1299,Toys,Action,Fitzgerald-Martin,1228.01,649.67
+1300,Home,Furniture,"Perez, Reyes and Alvarez",197.03,130.74
+1301,Electronics,Mobile,Stokes Inc,361.38,149.07
+1302,Electronics,Laptop,Hickman-Fox,387.28,159.84
+1303,Books,Comics,Hall-Bird,982.37,638.14
+1304,Toys,Educational,Sanchez-Rogers,102.93,50.26
+1305,Electronics,Mobile,"Smith, Henry and Perez",1860.77,899.67
+1306,Books,Fiction,Peterson PLC,938.78,615.43
+1307,Home,Decor,Davila Ltd,1488.24,1125.37
+1308,Home,Decor,Mitchell-Elliott,121.31,78.46
+1309,Toys,Action,"Cisneros, Welch and Reeves",1469.93,1078.61
+1310,Electronics,Mobile,Williams and Sons,1921.37,843.19
+1311,Clothing,Kids,"Adkins, Giles and Bruce",773.74,369.27
+1312,Clothing,Kids,Woodard PLC,1252.52,590.64
+1313,Toys,Educational,Hall-Gross,1493.49,1055.17
+1314,Toys,Educational,"Nelson, Combs and Perez",1350.61,919.79
+1315,Books,Fiction,Nelson LLC,337.78,159.49
+1316,Books,Comics,Robinson-Dennis,678.34,314.25
+1317,Toys,Educational,Mason PLC,1867.37,1421.06
+1318,Toys,Educational,"Ruiz, Rojas and Clark",1690.48,955.02
+1319,Books,Comics,George LLC,650.28,322.73
+1320,Toys,Action,Daniels Group,753.25,467.09
+1321,Home,Kitchen,Salas-Mitchell,1923.5,1113.71
+1322,Books,Fiction,Parrish-Day,1453.99,1153.28
+1323,Toys,Action,Hunt-Martinez,1037.63,827.37
+1324,Home,Furniture,"Lee, King and Collins",604.17,295.29
+1325,Home,Furniture,Ingram-Washington,1544.19,1200.36
+1326,Home,Decor,Lawson-Barrera,1024.99,643.97
+1327,Toys,Action,Howell-Johnson,193.1,112.8
+1328,Clothing,Men,Parker-Howell,533.65,403.36
+1329,Clothing,Men,"Johnson, Kelly and Bautista",516.21,268.49
+1330,Toys,Educational,Perez-Brown,1140.28,555.29
+1331,Electronics,Camera,"Johnson, Anderson and Clark",652.76,387.1
+1332,Books,Comics,Davis-Johnson,1407.18,1024.15
+1333,Electronics,Camera,"Lucas, Beck and Lopez",1286.3,533.75
+1334,Toys,Educational,Hunter Ltd,161.56,68.24
+1335,Home,Kitchen,Ward PLC,1760.19,1009.86
+1336,Electronics,Mobile,Jones-Perry,1496.62,1107.19
+1337,Electronics,Camera,Martinez-Berry,1555.95,860.43
+1338,Home,Decor,"Martinez, Lewis and Jordan",87.16,53.69
+1339,Clothing,Women,Landry LLC,1007.29,491.88
+1340,Electronics,Camera,Anderson Group,1464.5,815.95
+1341,Books,Comics,"Bridges, Graves and Gill",1152.63,502.58
+1342,Books,Non-Fiction,"Kelley, Fox and Mcdonald",1573.8,722.7
+1343,Home,Furniture,"Huang, Hawkins and Scott",954.33,666.24
+1344,Toys,Educational,Gray Group,528.8,295.82
+1345,Books,Comics,Hudson PLC,265.1,120.34
+1346,Toys,Action,Meyer LLC,978.28,646.54
+1347,Clothing,Kids,Santos Ltd,1233.91,856.66
+1348,Clothing,Men,Rivera-Sanchez,147.93,105.14
+1349,Home,Decor,Smith Inc,1848.66,805.72
+1350,Books,Non-Fiction,"Barber, Spears and Smith",733.71,349.39
+1351,Home,Decor,"Bowman, Cunningham and Hughes",1312.54,929.11
+1352,Clothing,Women,Taylor-Bird,1234.36,982.63
+1353,Books,Comics,Vargas-Harrison,295.91,123.68
+1354,Clothing,Men,Bradford Inc,1372.29,634.54
+1355,Electronics,Mobile,Owens-Moss,1480.47,736.12
+1356,Toys,Action,Ward PLC,1738.16,1265.47
+1357,Electronics,Laptop,Lang PLC,1389.12,617.48
+1358,Books,Non-Fiction,"Green, Simmons and Thompson",50.38,24.36
+1359,Toys,Action,Stafford LLC,411.58,250.78
+1360,Home,Decor,Perry-Norman,968.64,670.27
+1361,Clothing,Kids,"Reynolds, Smith and Mccall",1399.02,569.9
+1362,Toys,Board,Taylor-Hall,1055.96,530.28
+1363,Electronics,Laptop,Robinson-Warren,405.39,275.1
+1364,Home,Furniture,Ali-Brown,932.6,725.63
+1365,Electronics,Laptop,Ferrell PLC,1322.44,879.68
+1366,Home,Furniture,"Hayes, Bowers and Alvarez",43.06,32.16
+1367,Books,Fiction,Larson Ltd,1959.69,1182.51
+1368,Electronics,Laptop,"Reed, Zavala and Gonzalez",971.9,620.89
+1369,Electronics,Mobile,"Banks, Williams and Brown",401.76,316.07
+1370,Toys,Board,"Lowe, Martinez and Thomas",47.87,23.89
+1371,Toys,Educational,Lamb Ltd,670.47,373.69
+1372,Clothing,Men,Huang and Sons,696.83,376.82
+1373,Home,Furniture,Vargas PLC,1992.01,1576.55
+1374,Home,Furniture,Hill-Dean,1253.46,941.94
+1375,Electronics,Camera,Anderson-Coleman,1898.49,930.7
+1376,Home,Kitchen,Merritt Inc,1315.58,572.43
+1377,Books,Comics,"Ruiz, Hoffman and Jimenez",1921.41,1239.27
+1378,Clothing,Women,Berry PLC,484.52,223.41
+1379,Home,Decor,Bradley-Villarreal,661.92,408.33
+1380,Clothing,Kids,Hudson-Silva,281.46,173.53
+1381,Clothing,Men,"Chan, Brown and Williams",621.45,423.86
+1382,Toys,Action,"Miller, Logan and Sandoval",862.98,658.97
+1383,Clothing,Kids,Lewis Inc,1866.39,1431.23
+1384,Home,Furniture,Thomas LLC,1116.89,870.55
+1385,Electronics,Mobile,Contreras-Armstrong,638.61,480.14
+1386,Electronics,Laptop,Wilson-Martin,1760.86,995.97
+1387,Books,Non-Fiction,"Jones, Brewer and Clark",888.79,687.49
+1388,Home,Furniture,Williams-Cowan,1559.32,690.32
+1389,Clothing,Men,Riley Ltd,1526.08,984.01
+1390,Home,Decor,Potter-Eaton,1136.25,559.45
+1391,Clothing,Men,"Tran, Tucker and Paul",1376.32,748.31
+1392,Books,Fiction,Baker Group,1007.14,646.47
+1393,Home,Furniture,Hansen-Stephens,1705.0,1017.17
+1394,Clothing,Men,Deleon PLC,390.55,161.25
+1395,Electronics,Laptop,"Sutton, Garcia and Foster",1900.65,929.46
+1396,Clothing,Men,Smith-Bowen,136.94,105.56
+1397,Books,Comics,Hernandez Ltd,982.44,520.65
+1398,Books,Fiction,Weiss-Johnson,857.97,609.58
+1399,Toys,Board,Copeland LLC,1649.54,1135.02
+1400,Books,Comics,Yates-Roberts,1878.58,1181.2
+1401,Toys,Board,Richardson and Sons,1284.58,875.63
+1402,Electronics,Camera,"Myers, Gonzalez and Wilson",223.09,130.01
+1403,Electronics,Mobile,Young-Campbell,1039.81,580.47
+1404,Electronics,Camera,Lawrence-Wright,777.86,549.22
+1405,Electronics,Mobile,"Flowers, Gonzalez and Jenkins",585.9,327.64
+1406,Home,Kitchen,"Porter, Lowe and Sexton",925.39,526.53
+1407,Toys,Action,Perez Inc,1381.46,1051.94
+1408,Books,Comics,Price-Lynn,906.14,624.38
+1409,Electronics,Mobile,"Salazar, Cox and Hudson",1558.57,1208.11
+1410,Toys,Action,Long Ltd,789.17,417.77
+1411,Electronics,Mobile,Gonzales Inc,910.09,690.44
+1412,Clothing,Women,"Foster, Williams and Mccall",184.91,97.93
+1413,Clothing,Kids,Mcgee-Scott,1467.86,640.69
+1414,Books,Comics,"Gibson, Payne and Wilcox",729.07,444.39
+1415,Books,Comics,Rodriguez-Wise,1583.18,957.3
+1416,Clothing,Women,Hernandez-Mcdaniel,1102.94,460.55
+1417,Clothing,Women,"Peterson, James and Randolph",1133.16,752.21
+1418,Clothing,Men,Arroyo-Cisneros,1738.29,819.68
+1419,Electronics,Laptop,Reyes-Ramirez,619.58,428.79
+1420,Books,Non-Fiction,"Benson, Roberson and Evans",1254.77,560.91
+1421,Clothing,Men,"Fitzgerald, Ray and Young",12.05,8.51
+1422,Electronics,Laptop,"Young, Williams and Burns",997.77,598.12
+1423,Electronics,Camera,"Snyder, Villarreal and Lawrence",1765.99,874.43
+1424,Toys,Board,"Lindsey, Medina and Johnston",954.05,538.14
+1425,Electronics,Camera,Pollard-Delacruz,1202.2,598.56
+1426,Toys,Educational,Wilson-Garza,1241.43,773.44
+1427,Clothing,Men,Diaz and Sons,373.76,157.74
+1428,Home,Furniture,Ellison-Kelly,295.02,121.84
+1429,Toys,Board,"Wallace, Tucker and Andrade",600.39,461.19
+1430,Electronics,Mobile,"Russell, Hoover and Holder",836.83,394.4
+1431,Home,Decor,Walton-Davis,1323.54,899.93
+1432,Toys,Board,"Hill, Cruz and Lee",358.95,208.96
+1433,Toys,Educational,Hanson-Wright,1863.3,814.73
+1434,Home,Kitchen,Brewer Ltd,740.3,408.33
+1435,Electronics,Laptop,Luna LLC,1687.4,718.78
+1436,Books,Fiction,Dixon Ltd,248.44,184.78
+1437,Home,Decor,"Pham, Reynolds and Ramos",830.45,401.89
+1438,Clothing,Kids,Perez Inc,121.08,76.1
+1439,Toys,Action,Melton-Jones,969.91,655.14
+1440,Home,Kitchen,Nelson LLC,1219.64,642.26
+1441,Toys,Board,"Schmidt, Abbott and Shannon",1990.07,1077.71
+1442,Clothing,Kids,Whitaker-Jones,1127.46,685.36
+1443,Books,Non-Fiction,"Pierce, Anderson and Oneill",1616.92,1218.29
+1444,Clothing,Kids,King-Carr,584.52,279.06
+1445,Electronics,Mobile,"Boone, Flores and Willis",932.45,670.15
+1446,Clothing,Kids,Meza Inc,1997.98,1130.09
+1447,Home,Kitchen,Cameron LLC,1123.03,735.59
+1448,Electronics,Camera,Berry-Alvarado,406.37,208.33
+1449,Electronics,Laptop,Rodriguez and Sons,604.07,374.52
+1450,Electronics,Mobile,"James, Jacobs and Jones",1373.24,736.8
+1451,Toys,Board,Moore LLC,1920.43,1407.32
+1452,Clothing,Women,Randall PLC,1668.48,1282.91
+1453,Books,Non-Fiction,Nichols-White,1595.52,1050.27
+1454,Books,Fiction,Patton-Andrews,1256.26,950.77
+1455,Toys,Educational,Neal and Sons,927.63,673.15
+1456,Electronics,Camera,Joseph-Nelson,602.19,415.5
+1457,Home,Decor,Lara-Morris,1074.09,519.11
+1458,Home,Kitchen,"Watson, Pittman and Roman",137.1,63.03
+1459,Electronics,Laptop,Reed-Harding,1967.32,1279.95
+1460,Clothing,Kids,Alexander-Sullivan,1213.35,576.28
+1461,Electronics,Laptop,Melendez Ltd,1412.01,742.43
+1462,Electronics,Laptop,"Reynolds, Zavala and Hernandez",830.67,497.42
+1463,Clothing,Women,Bruce PLC,906.55,707.37
+1464,Clothing,Kids,"Salinas, Sanders and Gregory",608.13,270.55
+1465,Electronics,Mobile,Buchanan-Mcintyre,1827.14,1055.19
+1466,Electronics,Laptop,"Chen, Smith and Chapman",1810.39,835.73
+1467,Home,Kitchen,"Pacheco, Cordova and Miller",1466.22,893.59
+1468,Home,Furniture,"Lang, Hardy and Huang",1540.12,676.58
+1469,Toys,Board,Ellis-Potts,1985.48,957.15
+1470,Electronics,Laptop,"Williams, Sanders and Perez",778.24,580.51
+1471,Electronics,Mobile,Williams-Thomas,625.41,261.18
+1472,Toys,Action,Hayes Group,669.91,506.23
+1473,Electronics,Camera,Gill-Bowers,1533.53,1070.74
+1474,Electronics,Camera,Mcdowell and Sons,1518.2,995.24
+1475,Clothing,Women,Turner PLC,405.11,208.48
+1476,Toys,Educational,Brown-Munoz,1546.71,1033.9
+1477,Home,Furniture,Clark PLC,319.2,142.29
+1478,Toys,Board,Clark Group,1030.55,497.38
+1479,Home,Decor,Gibbs PLC,640.38,292.41
+1480,Home,Decor,Robinson LLC,493.43,211.43
+1481,Toys,Educational,Hicks-Meyer,1083.45,455.36
+1482,Electronics,Laptop,King Group,1807.07,759.3
+1483,Books,Fiction,"Stout, Clay and Stevens",176.81,98.44
+1484,Toys,Board,Garrett Ltd,1260.79,852.36
+1485,Books,Comics,"Brock, Kent and Ferguson",714.47,380.76
+1486,Clothing,Kids,Davis-Patel,1518.01,1098.61
+1487,Electronics,Laptop,Johnson-Hughes,1137.74,497.38
+1488,Books,Fiction,"Chang, Sullivan and Orr",913.89,615.77
+1489,Books,Non-Fiction,Harris Ltd,467.23,228.72
+1490,Toys,Educational,Mills-Valencia,1826.16,1016.86
+1491,Home,Kitchen,"Baird, Nunez and Dixon",909.3,374.73
+1492,Books,Fiction,Moore Inc,706.12,412.72
+1493,Clothing,Women,Davis-Smith,1537.04,986.44
+1494,Clothing,Kids,Bailey-Randolph,210.35,152.93
+1495,Electronics,Laptop,Davis-Collins,1114.52,477.43
+1496,Home,Decor,"Rodriguez, Strickland and Wilson",924.64,588.27
+1497,Clothing,Kids,Edwards and Sons,491.16,227.71
+1498,Books,Non-Fiction,Ortiz Ltd,136.79,66.11
+1499,Toys,Educational,"Powell, Berry and Martin",1569.71,901.24
+1500,Home,Decor,Perry-Brown,1389.8,652.14
+1501,Electronics,Camera,"Lamb, Watson and Campbell",1862.07,1172.5
+1502,Books,Fiction,"Benson, Stark and Stein",1186.37,694.22
+1503,Toys,Action,Rodriguez PLC,1644.94,773.89
+1504,Books,Fiction,Clay-Mitchell,1198.53,808.05
+1505,Toys,Educational,Smith Inc,658.18,433.08
+1506,Electronics,Mobile,Romero Inc,439.14,200.06
+1507,Toys,Board,Smith-Brown,1620.63,1139.03
+1508,Clothing,Women,Roberts Group,1064.86,592.05
+1509,Toys,Educational,Mckee-Shepherd,395.35,265.92
+1510,Home,Kitchen,Sanchez-Barnes,1142.7,874.49
+1511,Home,Kitchen,"Henry, Cook and Yoder",1436.99,1100.8
+1512,Electronics,Camera,Frazier-Valentine,21.2,16.84
+1513,Books,Fiction,"Campos, Brown and Cruz",1705.75,724.88
+1514,Toys,Action,"Smith, Barry and Williams",6.68,4.17
+1515,Home,Furniture,"Thompson, Nguyen and Rollins",1723.19,1285.97
+1516,Clothing,Women,Davis-Little,1405.93,784.1
+1517,Home,Decor,"Wright, Miller and Rivera",768.67,424.79
+1518,Toys,Action,Boyle-Mercado,1326.66,782.66
+1519,Clothing,Kids,Wallace-Castro,772.27,594.49
+1520,Books,Fiction,Mitchell-James,580.5,434.85
+1521,Clothing,Men,Lawrence-Wyatt,28.15,18.56
+1522,Clothing,Kids,Hunt-Farmer,1770.35,1174.04
+1523,Clothing,Men,Sexton-Wade,278.75,201.36
+1524,Books,Comics,Myers PLC,1210.84,690.52
+1525,Clothing,Women,"Mendez, Fox and Jenkins",1021.28,634.03
+1526,Books,Non-Fiction,Miller-Moore,713.84,338.59
+1527,Toys,Action,Harris-Martinez,1157.99,855.43
+1528,Clothing,Kids,Gonzalez-Mendoza,1005.95,567.69
+1529,Toys,Board,Price LLC,737.11,583.27
+1530,Toys,Educational,Lewis-Peterson,1411.24,628.38
+1531,Books,Comics,"Bruce, Holmes and Moreno",164.73,114.01
+1532,Toys,Educational,Jones-Lucas,932.55,402.2
+1533,Toys,Action,"Hanson, Flores and Camacho",494.24,322.38
+1534,Electronics,Camera,Liu PLC,1269.21,912.87
+1535,Home,Decor,Harrington Inc,110.28,59.27
+1536,Electronics,Laptop,Burgess-Price,910.8,694.41
+1537,Toys,Board,Moses-Jones,666.37,360.62
+1538,Home,Kitchen,Edwards PLC,339.18,229.97
+1539,Toys,Board,Kirby-Love,611.62,436.7
+1540,Home,Furniture,Brown Group,1260.45,795.67
+1541,Toys,Action,Jennings-Lee,1314.36,679.13
+1542,Toys,Action,Simmons-Wolfe,577.2,249.93
+1543,Toys,Action,Church-Evans,1703.63,870.79
+1544,Clothing,Kids,Thomas PLC,565.54,420.28
+1545,Electronics,Camera,"Taylor, Ross and Wise",227.54,106.91
+1546,Toys,Board,"Vargas, Wood and Dillon",306.52,177.37
+1547,Clothing,Women,Hall Inc,1566.14,774.42
+1548,Clothing,Kids,"Morris, Wheeler and Williams",1724.72,926.41
+1549,Electronics,Mobile,Krause-Jones,1193.11,869.41
+1550,Books,Non-Fiction,Watson LLC,1541.88,763.51
+1551,Books,Comics,"Holland, Young and Obrien",1276.96,618.49
+1552,Home,Furniture,"Hardin, Murphy and Hawkins",1286.31,903.24
+1553,Electronics,Mobile,"Valencia, Ibarra and Nolan",339.36,189.87
+1554,Home,Kitchen,"Brown, Mullen and Miller",1493.57,1046.95
+1555,Toys,Action,"Martinez, Young and Cook",762.7,520.35
+1556,Books,Non-Fiction,"Smith, Campbell and Williams",294.57,220.37
+1557,Electronics,Laptop,White Inc,1854.81,1074.91
+1558,Home,Decor,Bryant-Carrillo,1367.34,569.37
+1559,Toys,Board,"Johnson, Wood and Williams",710.89,524.42
+1560,Toys,Board,"Simmons, Franklin and Cortez",1717.42,917.08
+1561,Home,Furniture,Adams PLC,514.41,325.97
+1562,Books,Comics,Lindsey Group,1499.44,1040.2
+1563,Toys,Action,Tucker Ltd,1042.3,699.47
+1564,Clothing,Women,"Carey, Miller and Marshall",1097.49,734.35
+1565,Electronics,Mobile,"Ramos, Walton and Kennedy",825.44,503.61
+1566,Books,Non-Fiction,Mason-Richmond,442.74,227.27
+1567,Clothing,Men,"Ray, Barton and Holmes",52.28,22.83
+1568,Toys,Board,Johnson PLC,1788.46,870.5
+1569,Toys,Board,Jennings Ltd,247.97,194.19
+1570,Electronics,Camera,"Adams, Torres and Mills",264.16,175.02
+1571,Toys,Action,Meyer LLC,1792.52,1215.8
+1572,Home,Kitchen,Luna LLC,936.58,725.36
+1573,Books,Non-Fiction,Lee LLC,1539.87,1042.32
+1574,Home,Kitchen,"Hamilton, Franklin and Hunt",328.12,140.96
+1575,Electronics,Laptop,Sellers-Miller,780.24,622.93
+1576,Home,Kitchen,Moran Ltd,359.97,153.98
+1577,Clothing,Kids,"Brown, Mitchell and Perkins",788.31,518.86
+1578,Electronics,Mobile,Martinez-Ryan,1083.56,620.34
+1579,Toys,Board,White PLC,216.97,125.11
+1580,Home,Furniture,Lester-Wilkins,74.55,31.92
+1581,Home,Kitchen,Duran-Boyd,42.44,25.42
+1582,Electronics,Mobile,Flores-Perkins,1330.89,674.2
+1583,Home,Kitchen,"Cooper, Ochoa and Day",1151.41,697.93
+1584,Books,Non-Fiction,"Morgan, Phillips and Craig",874.94,645.37
+1585,Electronics,Camera,"Clarke, Michael and Bauer",455.56,252.28
+1586,Books,Fiction,Leach PLC,1136.65,879.79
+1587,Home,Kitchen,Serrano Inc,1365.26,764.88
+1588,Electronics,Laptop,"Randall, Arnold and Mcbride",1071.58,840.52
+1589,Electronics,Laptop,"Jenkins, Jones and Leonard",1522.1,785.38
+1590,Clothing,Men,Nunez Group,1111.18,874.5
+1591,Clothing,Women,Trujillo-Cummings,1393.29,1056.93
+1592,Home,Kitchen,Brown and Sons,174.3,113.84
+1593,Clothing,Men,"Lambert, Kennedy and Luna",76.22,31.26
+1594,Toys,Action,"Villanueva, Marquez and Chapman",981.02,417.13
+1595,Toys,Board,"Perez, Gould and Jacobs",618.92,379.75
+1596,Books,Fiction,Bell-Ruiz,78.9,33.33
+1597,Electronics,Laptop,Fox LLC,240.78,174.05
+1598,Toys,Educational,Reese-Gonzalez,1880.48,1406.75
+1599,Toys,Action,Miller PLC,1483.4,731.6
+1600,Electronics,Mobile,"Perez, Guzman and Barber",1472.24,876.8
+1601,Electronics,Laptop,"West, Carter and Brown",1814.82,1174.82
+1602,Clothing,Kids,Sweeney-Johnson,1299.33,527.2
+1603,Electronics,Laptop,Jefferson-Perry,1642.37,720.86
+1604,Toys,Action,George-Rodriguez,1671.53,711.37
+1605,Electronics,Mobile,Townsend Inc,996.8,717.37
+1606,Clothing,Men,"Russell, Patterson and Mckinney",1609.88,918.41
+1607,Books,Non-Fiction,Watson Ltd,246.0,165.71
+1608,Toys,Action,Edwards Ltd,646.57,508.12
+1609,Clothing,Men,"Mccullough, Griffin and Willis",1188.21,634.74
+1610,Electronics,Laptop,Powell LLC,286.77,162.33
+1611,Home,Decor,"Foster, Jacobson and Carroll",334.19,166.25
+1612,Toys,Action,Gray Inc,271.07,194.2
+1613,Toys,Educational,Maxwell Group,1556.43,632.3
+1614,Books,Fiction,Dixon PLC,17.67,8.34
+1615,Electronics,Camera,"Long, Hernandez and Robinson",1305.25,985.16
+1616,Books,Comics,"Nichols, Mclaughlin and Rosales",1615.79,1145.64
+1617,Clothing,Men,"Clark, English and Mckay",290.46,147.66
+1618,Books,Non-Fiction,Carter Inc,482.31,226.6
+1619,Electronics,Camera,Roberts and Sons,364.1,218.44
+1620,Electronics,Camera,Harper-Walker,1653.83,860.79
+1621,Books,Fiction,"Johnson, Yoder and Johnson",1117.63,532.84
+1622,Toys,Action,Kline-Brooks,1239.75,923.73
+1623,Toys,Board,Long-Reynolds,442.46,313.32
+1624,Clothing,Women,Abbott-Golden,110.87,49.35
+1625,Clothing,Kids,Miller-Acosta,1688.34,1290.89
+1626,Books,Fiction,Rodriguez-Price,323.72,248.96
+1627,Electronics,Camera,"White, Cameron and Washington",731.57,353.96
+1628,Home,Kitchen,Murphy-Greene,1235.55,934.12
+1629,Books,Fiction,Cannon-Parks,213.32,89.8
+1630,Toys,Action,Griffin LLC,320.3,131.84
+1631,Toys,Action,Lopez Group,146.36,72.32
+1632,Books,Comics,"Hale, Rogers and Tran",1161.62,659.37
+1633,Home,Furniture,Farrell Ltd,1559.06,827.01
+1634,Electronics,Mobile,"Pierce, Webb and Reyes",1476.81,1104.59
+1635,Books,Fiction,"Martin, Chan and Mcmillan",151.69,96.18
+1636,Electronics,Laptop,Green Group,294.16,226.84
+1637,Books,Fiction,Benson-Harris,777.72,353.52
+1638,Clothing,Kids,"Cook, Johnson and Cross",720.39,365.87
+1639,Home,Furniture,"Burch, Munoz and Duke",69.03,43.31
+1640,Home,Furniture,Daniels Inc,226.66,132.87
+1641,Books,Fiction,"Johnson, Turner and Downs",1521.88,742.59
+1642,Home,Decor,"Ballard, Sanchez and Decker",317.79,228.12
+1643,Toys,Action,"Munoz, Miller and Nelson",1158.35,719.45
+1644,Clothing,Men,Jackson Ltd,826.33,502.99
+1645,Clothing,Kids,Carson Inc,949.61,555.62
+1646,Electronics,Camera,Gonzales-Wheeler,859.08,643.48
+1647,Clothing,Women,"Valenzuela, Faulkner and Clark",871.33,426.05
+1648,Toys,Action,Johnson Ltd,1827.94,1387.96
+1649,Books,Fiction,Chavez-Fischer,84.92,49.96
+1650,Toys,Action,Flynn Inc,854.27,476.45
+1651,Electronics,Laptop,Sampson-Knight,993.09,430.24
+1652,Electronics,Camera,Ortiz-Thomas,1464.91,1142.59
+1653,Clothing,Women,Spencer Group,595.1,392.2
+1654,Electronics,Mobile,"Vincent, Scott and Ruiz",962.17,502.19
+1655,Books,Comics,Diaz PLC,1495.84,612.94
+1656,Books,Non-Fiction,Chen-Barrett,1544.81,1158.11
+1657,Books,Fiction,Boyd and Sons,1580.77,866.53
+1658,Books,Comics,Ho Inc,1268.64,944.06
+1659,Electronics,Laptop,"Miller, Crawford and Mcdonald",1787.4,952.97
+1660,Electronics,Laptop,Cox and Sons,854.67,434.1
+1661,Toys,Board,Monroe LLC,1152.58,556.53
+1662,Electronics,Camera,Ramos-Gutierrez,1762.29,1223.57
+1663,Electronics,Camera,Gill-Peters,1890.92,1266.65
+1664,Electronics,Mobile,Trujillo Group,769.0,450.74
+1665,Electronics,Laptop,"Holder, Stout and Grant",736.03,485.24
+1666,Electronics,Camera,Hale-Bailey,1420.13,684.34
+1667,Home,Furniture,Miller Group,1081.57,713.42
+1668,Toys,Board,Lyons-Wilkinson,423.54,295.63
+1669,Clothing,Women,"Hawkins, Kane and Thompson",708.66,359.25
+1670,Books,Non-Fiction,Reynolds and Sons,113.65,62.41
+1671,Books,Non-Fiction,Morales Group,1005.39,735.77
+1672,Books,Comics,"Evans, Chandler and Jackson",1066.15,778.45
+1673,Home,Kitchen,"Cunningham, Smith and Thompson",1243.8,895.49
+1674,Electronics,Mobile,"Miller, Silva and Little",1784.35,1040.54
+1675,Electronics,Laptop,Wiggins-Ramsey,1796.4,925.77
+1676,Electronics,Mobile,Patterson Group,333.71,148.44
+1677,Clothing,Women,Douglas Group,305.24,147.03
+1678,Electronics,Laptop,"Campbell, Burton and Williams",835.99,562.59
+1679,Clothing,Women,"Roberts, Gardner and Wilson",696.67,402.36
+1680,Electronics,Laptop,"Johnson, Martinez and Kelly",382.18,156.24
+1681,Clothing,Kids,Cole LLC,1291.12,729.07
+1682,Home,Decor,"Hickman, Anderson and Marquez",1293.87,686.43
+1683,Toys,Board,Berry Ltd,1395.24,1027.96
+1684,Books,Non-Fiction,Williamson-Salazar,611.64,276.94
+1685,Home,Furniture,Hansen-Duncan,1579.59,775.12
+1686,Home,Kitchen,Mcknight-Patton,1540.65,645.42
+1687,Home,Kitchen,Cummings-Hernandez,914.57,426.69
+1688,Clothing,Kids,Hernandez-Davis,1072.96,507.42
+1689,Clothing,Kids,Garner-Garrett,1387.25,924.66
+1690,Clothing,Men,"Espinoza, Cross and Bailey",479.62,199.74
+1691,Home,Decor,"Miller, Peterson and Thompson",257.31,129.73
+1692,Clothing,Men,Hudson-Howe,1127.16,466.5
+1693,Home,Kitchen,"Young, Chang and Reyes",300.15,173.9
+1694,Clothing,Kids,Harris-Anderson,606.61,465.98
+1695,Books,Non-Fiction,Greer PLC,1538.19,1198.43
+1696,Home,Furniture,"Gutierrez, Turner and Gill",13.57,9.44
+1697,Toys,Educational,"Berger, Barker and Garcia",1296.25,671.75
+1698,Home,Decor,"Reid, Wilson and Gray",1335.44,961.29
+1699,Books,Non-Fiction,Avila Ltd,1379.85,955.76
+1700,Electronics,Mobile,Hartman-Foster,1357.63,606.52
+1701,Electronics,Laptop,Brown Group,1236.96,603.82
+1702,Home,Furniture,"Ryan, Taylor and Cain",656.1,422.04
+1703,Clothing,Kids,Smith-Turner,1055.24,751.87
+1704,Home,Furniture,"Howell, Weaver and Yates",49.98,30.76
+1705,Books,Comics,"Castro, Walker and Schroeder",1344.76,584.9
+1706,Toys,Educational,Stewart Inc,392.93,207.11
+1707,Toys,Board,"Fernandez, Scott and Armstrong",1887.09,1440.56
+1708,Home,Kitchen,Page-Perez,300.15,222.57
+1709,Home,Kitchen,Day-Dodson,748.8,384.78
+1710,Home,Kitchen,Wolfe and Sons,1955.16,1465.82
+1711,Electronics,Mobile,Stout-Rivera,1457.07,841.73
+1712,Books,Non-Fiction,"Lewis, West and Silva",580.82,419.51
+1713,Books,Comics,Fitzpatrick-Bush,1793.38,817.47
+1714,Toys,Board,Mcdonald-Jones,176.73,85.38
+1715,Books,Comics,Mathews LLC,1973.34,841.52
+1716,Toys,Educational,Sloan Inc,181.45,102.3
+1717,Home,Kitchen,Anderson and Sons,353.91,206.98
+1718,Toys,Action,"White, Harris and Ramirez",402.52,295.01
+1719,Home,Decor,Graham Group,983.72,717.25
+1720,Home,Decor,Johnson-Lewis,611.31,381.28
+1721,Books,Fiction,Carroll LLC,58.55,23.48
+1722,Home,Kitchen,Spencer Group,1912.27,1403.03
+1723,Books,Fiction,Conley-Hensley,1309.36,991.28
+1724,Books,Fiction,"Butler, Taylor and Lindsey",986.31,665.89
+1725,Clothing,Men,Bryant Inc,243.11,124.2
+1726,Electronics,Camera,Hernandez-Scott,1492.4,943.83
+1727,Toys,Educational,"Murillo, Hamilton and Moore",1737.35,1131.36
+1728,Books,Comics,Mcfarland Group,1637.47,899.43
+1729,Toys,Action,Baker-Castillo,1691.33,786.7
+1730,Electronics,Mobile,Ramirez-Ortiz,642.76,482.92
+1731,Clothing,Women,Stewart PLC,330.8,168.4
+1732,Books,Comics,"Russell, Valenzuela and Collins",1824.65,989.68
+1733,Home,Kitchen,Lewis LLC,1061.58,822.22
+1734,Toys,Action,"Morris, Perez and Smith",1534.05,726.06
+1735,Electronics,Camera,"Rush, Roy and Cortez",1506.49,930.23
+1736,Home,Decor,"Bauer, Lopez and Mills",1600.76,814.12
+1737,Home,Furniture,Wheeler-Wade,1071.17,579.13
+1738,Clothing,Men,Leach-Merritt,278.21,142.6
+1739,Books,Non-Fiction,Stafford Group,683.92,522.73
+1740,Electronics,Mobile,"Duran, Hoffman and Richard",313.34,153.05
+1741,Clothing,Kids,Munoz-Smith,1228.79,900.17
+1742,Toys,Board,"Beltran, Adams and Edwards",1426.53,971.33
+1743,Electronics,Laptop,Miller LLC,923.68,397.7
+1744,Clothing,Men,"Woodard, Wiley and Evans",961.64,504.5
+1745,Home,Furniture,Payne-Malone,1634.99,1235.87
+1746,Toys,Board,"Stewart, Simpson and Thompson",1528.36,820.45
+1747,Home,Furniture,Robinson-Cole,1490.2,666.77
+1748,Clothing,Kids,Morris PLC,289.01,141.8
+1749,Clothing,Men,Baker-Henderson,264.79,114.24
+1750,Electronics,Mobile,Jimenez-Castro,42.52,25.24
+1751,Books,Fiction,Moore-Gutierrez,396.72,163.89
+1752,Toys,Board,Thomas PLC,123.23,55.15
+1753,Home,Furniture,"Gibbs, Jacobs and Wright",137.16,91.49
+1754,Electronics,Mobile,Perry-Bautista,1840.6,887.46
+1755,Clothing,Men,"Fuller, Mendoza and Williams",1342.85,552.86
+1756,Clothing,Kids,Ramsey Group,1883.98,1468.59
+1757,Home,Kitchen,"Lee, Bailey and Wilkinson",325.31,195.27
+1758,Toys,Action,Coffey-Taylor,1012.29,432.59
+1759,Toys,Action,Chapman PLC,1060.03,727.52
+1760,Home,Furniture,Williams-Williams,1803.81,1109.07
+1761,Electronics,Mobile,Braun-Lindsey,1841.35,1363.55
+1762,Books,Non-Fiction,"Michael, Johnson and Michael",1397.78,662.62
+1763,Electronics,Mobile,"Gonzales, Lopez and Barber",1670.31,1323.75
+1764,Books,Fiction,Moreno Inc,1030.93,580.45
+1765,Home,Furniture,Velasquez Ltd,934.47,568.06
+1766,Books,Non-Fiction,Kim-Roach,1410.94,878.81
+1767,Electronics,Mobile,Oconnor PLC,659.59,294.37
+1768,Home,Kitchen,Watson-Turner,1202.78,631.22
+1769,Books,Fiction,Rodgers-Wagner,1110.06,573.05
+1770,Books,Fiction,Evans Group,1714.26,1299.24
+1771,Books,Comics,Lopez and Sons,738.05,298.99
+1772,Books,Comics,Sanchez LLC,214.82,123.57
+1773,Electronics,Mobile,Edwards PLC,291.02,163.04
+1774,Toys,Action,Robinson-Cole,1484.16,1123.47
+1775,Clothing,Men,Hoffman-Anderson,730.6,350.42
+1776,Clothing,Kids,Sims LLC,1688.84,948.65
+1777,Clothing,Women,"Le, Gill and Lynn",1451.77,742.45
+1778,Toys,Board,"Kelly, Baker and Torres",549.58,393.39
+1779,Books,Non-Fiction,Brooks and Sons,954.27,611.94
+1780,Books,Non-Fiction,Santana-Jenkins,1025.27,470.55
+1781,Books,Fiction,Harris-Bernard,248.77,148.2
+1782,Clothing,Kids,Paul-Owens,1885.09,776.45
+1783,Electronics,Mobile,Deleon PLC,998.78,410.2
+1784,Clothing,Women,Roman-Riley,1211.14,642.85
+1785,Home,Decor,"Odonnell, Dickerson and Oneal",1248.35,878.92
+1786,Toys,Educational,"Perez, Taylor and Morris",1586.5,762.75
+1787,Books,Non-Fiction,Berry-Watson,1012.07,624.42
+1788,Toys,Board,"Sellers, Huber and Wells",40.25,28.4
+1789,Books,Fiction,"Johnson, Phillips and Williams",770.34,405.06
+1790,Books,Non-Fiction,Perez-Vargas,922.01,380.92
+1791,Toys,Board,White-Berger,1721.42,897.23
+1792,Clothing,Women,Santana-Buckley,864.21,453.7
+1793,Books,Non-Fiction,Rogers PLC,1529.2,959.64
+1794,Books,Comics,Clark PLC,1109.8,683.37
+1795,Books,Non-Fiction,Kim-Rice,1126.7,521.13
+1796,Electronics,Laptop,"Alvarado, Wise and Harris",530.47,337.6
+1797,Books,Comics,Phelps-Flores,1354.59,957.14
+1798,Home,Kitchen,"Stark, Brooks and Myers",127.54,81.14
+1799,Clothing,Women,"Williams, Allen and Lee",701.01,488.48
+1800,Electronics,Camera,Gonzales-Beard,685.81,301.03
+1801,Home,Kitchen,Potter PLC,826.8,349.39
+1802,Clothing,Men,"Graham, West and Robbins",473.07,248.29
+1803,Electronics,Camera,Mclean-Williams,135.67,70.81
+1804,Home,Furniture,Carter-Walls,44.33,23.51
+1805,Books,Comics,Mendoza-Gardner,1727.42,1083.47
+1806,Books,Non-Fiction,Sullivan and Sons,45.7,26.87
+1807,Electronics,Laptop,Brown-Williamson,758.59,421.87
+1808,Toys,Action,Jefferson PLC,1617.61,711.79
+1809,Clothing,Women,Bradley LLC,995.98,721.67
+1810,Home,Furniture,"Brown, Lawson and Price",1231.58,671.62
+1811,Books,Fiction,Roy Ltd,996.42,736.29
+1812,Electronics,Camera,"Garcia, Lara and Mckinney",432.09,218.66
+1813,Home,Decor,Johnson PLC,807.04,395.74
+1814,Electronics,Camera,Cruz Group,1689.15,739.67
+1815,Home,Kitchen,Duran LLC,139.2,100.29
+1816,Books,Non-Fiction,Jackson Group,423.43,304.13
+1817,Home,Decor,"Fowler, Taylor and Burns",1609.23,922.35
+1818,Toys,Educational,Jordan Ltd,404.15,226.7
+1819,Toys,Board,Mcguire-Dawson,909.19,641.32
+1820,Clothing,Men,Wong LLC,1257.55,762.69
+1821,Clothing,Kids,"Gonzales, Taylor and Cross",1000.91,664.93
+1822,Books,Non-Fiction,"Henderson, Drake and Harper",1874.64,1149.32
+1823,Toys,Educational,Lopez Ltd,1869.6,1291.23
+1824,Electronics,Camera,Jacobs-Francis,405.29,237.09
+1825,Clothing,Men,Castillo-Anderson,1494.13,1055.17
+1826,Books,Non-Fiction,"Shaffer, Jackson and Harris",640.71,469.05
+1827,Electronics,Camera,Williams-Cuevas,411.1,232.26
+1828,Home,Decor,Bonilla and Sons,325.37,219.54
+1829,Clothing,Women,"Mayo, Barrett and Fields",480.77,221.15
+1830,Electronics,Mobile,"Hudson, Thompson and Graham",1595.1,836.18
+1831,Books,Comics,"Baker, Thompson and Wagner",1982.63,1127.74
+1832,Electronics,Mobile,Mcgee Ltd,322.92,146.79
+1833,Home,Kitchen,Hubbard-Hill,1319.05,620.47
+1834,Electronics,Camera,Franco Inc,974.25,397.46
+1835,Electronics,Laptop,Crane-Smith,1205.19,900.12
+1836,Books,Non-Fiction,"Rodriguez, Kelly and Vaughan",1344.99,1014.51
+1837,Books,Comics,Lowe PLC,1686.29,833.73
+1838,Toys,Board,"Mcconnell, Meyer and Wilkerson",1003.0,449.6
+1839,Toys,Board,Tran-Thomas,507.36,382.46
+1840,Clothing,Kids,Miller-Ramirez,248.94,179.9
+1841,Home,Decor,Beck-Sanders,1475.79,1066.02
+1842,Clothing,Women,Moore and Sons,439.93,194.77
+1843,Clothing,Women,Turner Group,881.75,442.39
+1844,Toys,Action,Hanson and Sons,983.27,540.68
+1845,Electronics,Laptop,Edwards Group,1093.76,645.25
+1846,Clothing,Women,Lee-Parsons,1759.47,1363.22
+1847,Home,Kitchen,Carlson-Thomas,1432.76,1043.83
+1848,Electronics,Camera,Sandoval Inc,1933.78,1242.12
+1849,Electronics,Camera,"Stephens, Simon and Frazier",1835.33,1227.17
+1850,Home,Decor,"Smith, Johnston and Allen",772.46,506.41
+1851,Home,Decor,Garcia LLC,248.5,185.58
+1852,Books,Non-Fiction,Glass and Sons,20.69,16.23
+1853,Home,Kitchen,Powell-Davis,185.05,134.92
+1854,Clothing,Women,Cooper Group,424.72,321.13
+1855,Books,Comics,Dougherty PLC,637.78,462.33
+1856,Books,Fiction,Nelson-Anderson,551.7,238.36
+1857,Books,Non-Fiction,Oliver-Adams,1475.2,1136.79
+1858,Home,Decor,"Leach, Garcia and Ruiz",847.62,650.48
+1859,Electronics,Mobile,Johnson-Smith,1398.47,842.63
+1860,Home,Kitchen,Richardson and Sons,1206.22,874.96
+1861,Home,Kitchen,"Yu, Smith and Richards",1391.94,981.03
+1862,Clothing,Kids,"Weiss, Holder and Washington",889.59,583.96
+1863,Electronics,Laptop,"Adams, Soto and James",404.15,211.05
+1864,Toys,Action,Keller-Miller,226.1,113.01
+1865,Clothing,Kids,"Benson, Jackson and Henry",1373.08,984.58
+1866,Home,Kitchen,"Barrett, Dougherty and Harrison",959.34,665.85
+1867,Home,Furniture,Allison-Richardson,1376.5,1005.82
+1868,Home,Furniture,Mitchell and Sons,173.38,94.85
+1869,Books,Non-Fiction,Lewis-Singh,1889.79,1424.4
+1870,Clothing,Men,Perez Group,1896.48,1458.86
+1871,Toys,Board,Wilson and Sons,461.27,200.92
+1872,Books,Fiction,Hendricks-Brown,527.26,390.56
+1873,Electronics,Laptop,Martinez-Smith,1237.92,792.46
+1874,Clothing,Men,Lambert-Maldonado,1916.28,896.91
+1875,Toys,Action,"Wolfe, Johnson and Long",33.16,20.24
+1876,Books,Comics,Thomas Group,990.83,485.3
+1877,Clothing,Men,Meyer-Oliver,1892.37,1372.66
+1878,Home,Kitchen,Murphy and Sons,1494.15,826.01
+1879,Books,Fiction,Lewis Inc,1202.17,959.43
+1880,Home,Decor,"Johnson, Mcdonald and King",1355.99,769.3
+1881,Books,Fiction,"Whitehead, Diaz and Williams",62.4,49.32
+1882,Clothing,Kids,Mitchell-Gordon,904.7,451.74
+1883,Toys,Board,Davis Inc,1296.23,562.95
+1884,Books,Fiction,Dorsey-Ferrell,1743.53,1376.97
+1885,Books,Comics,Crawford and Sons,428.37,237.06
+1886,Books,Comics,Harvey-Roberts,1196.41,513.53
+1887,Toys,Action,Larsen-Melendez,108.96,84.16
+1888,Books,Non-Fiction,Adams-Ware,1993.5,1546.42
+1889,Toys,Board,"Harris, Lamb and May",1497.74,626.36
+1890,Home,Decor,Fernandez-Richardson,1241.22,646.68
+1891,Books,Comics,Griffin-Robinson,744.95,586.44
+1892,Toys,Action,Thomas-Thornton,1163.07,586.32
+1893,Toys,Educational,Copeland-Reese,1861.0,1397.91
+1894,Clothing,Men,Larsen Ltd,638.05,390.59
+1895,Clothing,Women,King-Lloyd,238.1,99.45
+1896,Clothing,Women,"Johnston, Hawkins and Cohen",1744.0,1279.96
+1897,Home,Kitchen,Smith PLC,569.44,427.52
+1898,Toys,Educational,Weaver Inc,1036.36,595.19
+1899,Clothing,Women,"Smith, Fuller and Blake",1475.05,879.88
+1900,Clothing,Kids,"Shields, White and Harrison",1706.8,1131.55
+1901,Books,Fiction,Rosales-Lee,381.9,161.1
+1902,Clothing,Men,Contreras Ltd,943.14,438.96
+1903,Books,Non-Fiction,Perry-Stanley,236.47,179.26
+1904,Books,Fiction,Patel LLC,885.83,704.7
+1905,Toys,Educational,Mills-Ortiz,918.23,408.61
+1906,Clothing,Men,Zimmerman Inc,702.46,338.23
+1907,Home,Furniture,Winters-Flores,1670.73,1169.47
+1908,Home,Decor,Cruz-Smith,1782.33,1130.48
+1909,Toys,Action,"Armstrong, Rodriguez and Clark",1054.4,662.5
+1910,Books,Fiction,Phillips-Smith,496.08,297.27
+1911,Electronics,Laptop,Goodman Inc,56.79,38.19
+1912,Electronics,Laptop,Johnson LLC,750.25,578.94
+1913,Electronics,Laptop,Walker-Boyle,311.78,134.82
+1914,Books,Non-Fiction,Montoya-Hudson,1258.57,639.01
+1915,Electronics,Laptop,"Parker, Parker and Allen",1939.69,1284.98
+1916,Books,Non-Fiction,Spears-Young,1895.1,1515.94
+1917,Toys,Action,"Warren, Parker and Davis",426.68,178.98
+1918,Home,Kitchen,"Mcdaniel, Mcintyre and Rodriguez",1597.3,1114.15
+1919,Toys,Board,"Smith, Sanders and Miller",765.87,428.54
+1920,Clothing,Men,Smith-Fox,1930.27,1440.38
+1921,Electronics,Mobile,Branch Group,1705.43,793.33
+1922,Books,Non-Fiction,Phelps-Malone,1296.1,1013.26
+1923,Clothing,Men,Johnston-Cole,600.6,432.7
+1924,Home,Decor,Reese-Wolfe,1209.01,657.24
+1925,Electronics,Laptop,Hodges PLC,1027.74,612.38
+1926,Books,Non-Fiction,Hamilton Inc,540.62,346.07
+1927,Electronics,Laptop,"Johnson, Richardson and Washington",1622.93,1047.68
+1928,Books,Comics,"Whitaker, Daniel and Sanchez",854.9,355.79
+1929,Home,Kitchen,Gibson and Sons,1354.5,892.68
+1930,Clothing,Women,Stevens Ltd,1056.92,696.39
+1931,Electronics,Laptop,"Morton, Raymond and Cline",939.1,405.38
+1932,Books,Non-Fiction,Acevedo-Casey,301.47,136.0
+1933,Home,Furniture,Thomas Inc,1048.57,543.36
+1934,Electronics,Camera,Ruiz-Miller,157.68,65.92
+1935,Electronics,Camera,Vargas-Schneider,852.7,373.31
+1936,Toys,Educational,Mcdaniel-Guerrero,714.14,452.93
+1937,Toys,Action,Smith Group,232.3,154.39
+1938,Clothing,Men,Krause-Conrad,1686.61,705.18
+1939,Books,Comics,Kelly-Lee,598.81,380.17
+1940,Books,Comics,"Spears, Haynes and Gonzales",902.65,652.74
+1941,Home,Furniture,Hicks-Griffith,426.08,183.76
+1942,Toys,Educational,Ross Group,1743.87,771.72
+1943,Toys,Action,"Martinez, Lopez and Dixon",16.66,7.44
+1944,Clothing,Kids,Powers Inc,956.85,647.52
+1945,Toys,Board,Smith-Ryan,976.01,631.87
+1946,Toys,Educational,Green Ltd,1382.87,1085.91
+1947,Books,Non-Fiction,White and Sons,179.83,81.65
+1948,Clothing,Men,"Bell, Stevens and Robinson",1632.86,1107.75
+1949,Clothing,Men,Hanson-Russell,422.41,278.56
+1950,Clothing,Women,King-Eaton,1684.97,1252.4
+1951,Toys,Action,Frazier-Chapman,176.76,125.13
+1952,Clothing,Women,"Floyd, Lopez and Davis",846.65,378.1
+1953,Clothing,Kids,"Chavez, Gross and Graves",1406.68,1105.01
+1954,Books,Fiction,Hardy LLC,1720.29,1090.82
+1955,Clothing,Women,Robertson LLC,1141.01,836.97
+1956,Electronics,Laptop,Stein-Greer,20.71,13.51
+1957,Books,Non-Fiction,"Nelson, Smith and Flores",1697.99,1179.82
+1958,Toys,Board,Walls-Anderson,1110.84,573.54
+1959,Books,Non-Fiction,Stewart-Murphy,974.77,620.36
+1960,Toys,Board,"Gomez, Carter and Mann",1810.62,1352.63
+1961,Clothing,Kids,"Simpson, Moses and Hawkins",126.11,51.4
+1962,Toys,Educational,Mcclure LLC,1108.75,562.29
+1963,Books,Non-Fiction,"Frost, Smith and Schultz",238.3,154.68
+1964,Home,Kitchen,Robinson-Kane,1396.54,570.24
+1965,Home,Decor,Walters-Castro,388.44,208.8
+1966,Clothing,Kids,"King, Rowland and Dixon",443.31,338.52
+1967,Home,Decor,"Watkins, Gonzalez and Medina",1707.64,1171.58
+1968,Books,Fiction,"Barnett, Hansen and Jordan",1766.93,1217.76
+1969,Books,Non-Fiction,Myers-Gibson,1667.0,1115.63
+1970,Home,Kitchen,"Jackson, Donaldson and Allen",1600.51,1180.88
+1971,Toys,Action,Sanders Group,568.5,397.78
+1972,Books,Fiction,Bradford-Turner,350.72,162.22
+1973,Books,Fiction,Torres-Williams,1588.0,1234.23
+1974,Books,Non-Fiction,Coleman-Thomas,473.26,294.71
+1975,Electronics,Laptop,"Martinez, Taylor and Lester",1762.41,956.67
+1976,Clothing,Men,Carey Group,1656.76,1255.46
+1977,Electronics,Mobile,"Goodwin, Grant and Bush",678.78,302.46
+1978,Clothing,Men,Davis-Jones,1126.15,669.55
+1979,Home,Kitchen,Medina LLC,1539.9,1090.31
+1980,Toys,Educational,"Clark, Valdez and Ali",1793.15,1329.38
+1981,Toys,Board,Booth Ltd,1340.62,915.06
+1982,Books,Non-Fiction,Stevens Group,1925.48,1352.28
+1983,Electronics,Camera,"Howard, Poole and Sexton",1221.26,907.83
+1984,Electronics,Camera,Ramsey-Morgan,88.73,39.23
+1985,Electronics,Mobile,"Lara, Sanford and Andrews",1822.42,843.44
+1986,Home,Decor,"Dickerson, Chan and Simon",885.83,533.59
+1987,Electronics,Mobile,Sanchez-Kim,1295.95,691.83
+1988,Clothing,Men,Reynolds PLC,1697.95,977.41
+1989,Books,Fiction,Combs-Reed,494.41,357.78
+1990,Home,Kitchen,"Olson, Johnson and Benton",1012.52,439.53
+1991,Home,Decor,Horne LLC,1510.92,822.33
+1992,Clothing,Men,Wood-Robles,1507.65,922.47
+1993,Clothing,Men,"Garcia, Murillo and Drake",1604.53,907.14
+1994,Books,Non-Fiction,Rogers Inc,1903.92,1154.66
+1995,Home,Furniture,Cole-Conner,887.94,628.72
+1996,Toys,Action,"Long, Jennings and Jensen",174.13,91.58
+1997,Clothing,Women,"Johnson, Rocha and Burns",127.63,89.81
+1998,Clothing,Kids,Ellis-Pearson,120.33,78.53
+1999,Toys,Educational,"Moore, Whitney and Miller",841.51,634.76
+2000,Toys,Educational,Hamilton-Graham,1444.49,759.05
