@@ -1,0 +1,141 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Stock · Dashboard</title>
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700&display=swap" rel="stylesheet">
+  <style>
+    :root{
+      --bg:#f5f7fb;
+      --card:#ffffff;
+      --accent:#1a73e8;
+      --muted:#6b7280;
+      --radius:16px;
+    }
+    *{box-sizing:border-box}
+    html,body{height:100%;}
+    body{
+      margin:0;
+      font-family:"Poppins",system-ui,-apple-system,"Segoe UI",Roboto,"Helvetica Neue",Arial;
+      background: radial-gradient(1000px 500px at 10% 10%, #e8f0fe 0%, transparent 10%),
+                  radial-gradient(800px 400px at 90% 90%, #fdf2f8 0%, transparent 10%),
+                  var(--bg);
+      padding:40px 20px;
+    }
+    .wrapper{
+      width:100%;
+      max-width:1000px;
+      margin:0 auto;
+    }
+    .logo{
+      font-size:40px;
+      font-weight:700;
+      color:#111827;
+      text-align:center;
+      margin-bottom:8px;
+    }
+    .subtitle{
+      text-align:center;
+      color:var(--muted);
+      margin-bottom:28px;
+      font-size:15px;
+    }
+    .card{
+      background: linear-gradient(180deg, rgba(255,255,255,0.9), rgba(255,255,255,0.82));
+      border-radius:var(--radius);
+      padding:28px;
+      box-shadow:0 10px 30px rgba(11,22,50,0.08),0 2px 6px rgba(11,22,50,0.04);
+      margin-bottom:32px;
+    }
+    .card-header{
+      display:flex;
+      justify-content:space-between;
+      align-items:center;
+      margin-bottom:12px;
+    }
+    h2{
+      margin:0;
+      color:#1a73e8;
+      font-size:20px;
+      font-weight:600;
+    }
+    .btn{
+      padding:8px 16px;
+      border-radius:10px;
+      border:0;
+      background:var(--accent);
+      color:white;
+      font-weight:500;
+      cursor:pointer;
+      box-shadow:0 4px 12px rgba(26,115,232,0.18);
+      transition:background 0.2s;
+    }
+    .btn:hover{
+      background:#1669c1;
+    }
+    table{
+      width:100%;
+      border-collapse:collapse;
+      margin-top:0;
+      background:var(--card);
+      border-radius:12px;
+      overflow:hidden;
+      box-shadow:0 4px 12px rgba(0,0,0,0.04);
+    }
+    th,td{
+      padding:12px 16px;
+      text-align:center;
+    }
+    th{
+      background:var(--accent);
+      color:white;
+      font-weight:600;
+      font-size:14px;
+    }
+    tr:nth-child(even){
+      background:#f9fafb;
+    }
+    .increase{color:green;font-weight:600;}
+    .decrease{color:red;font-weight:600;}
+    img{
+      display:block;
+      margin:20px auto 0;
+      max-width:100%;
+      border:1px solid #e5e7eb;
+      border-radius:12px;
+    }
+  </style>
+</head>
+<body>
+  <div class="wrapper">
+    <div class="logo">📊 Inventory <span style="color:var(--accent)">Alerts</span></div>
+    <div class="subtitle">Report for Inventory Alerts</div>
+        <div class="card">
+        <div class="card-header">
+            <h2>Inventory Alerts</h2>
+            <button class="btn" onclick="exportTable()">Export</button>
+        </div>
+        <table id="stockTable">
+          <thead>
+              <tr>
+                {% for col in in_columns %}
+                
+                  <th>{{ col }}</th>
+                {% endfor %}
+              </tr>
+            </thead>
+            <tbody>
+              {% for row in in_rows %}
+                <tr>
+                  {% for col in in_columns %}
+                    <td>{{ row[col] }}</td>
+                  {% endfor %}
+                </tr>
+              {% endfor %}  
+            </tbody>
+        </table>
+        </div>
+    </div>
+</body>
+</html>
